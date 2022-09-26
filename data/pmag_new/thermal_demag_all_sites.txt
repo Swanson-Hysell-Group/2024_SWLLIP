@@ -1,0 +1,26 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+UI1	Grand Canyon	36.1	-111.8		This study
+UI2	Grand Canyon	36.1	-111.8		This study
+UI3	Grand Canyon	36.1	-111.8		This study
+UI4	Grand Canyon	36.1	-111.8		This study
+UI5	Grand Canyon	36.1	-111.8		This study
+CBS1	Grand Canyon	36.1	-111.8		This study
+CB1	Grand Canyon	36.1	-111.8		This study
+CB2	Grand Canyon	36.1	-111.8		This study
+CB3	Grand Canyon	36.1	-111.8		This study
+CB4	Grand Canyon	36.1	-111.8		This study
+CB5	Grand Canyon	36.1	-111.8		This study
+CB6	Grand Canyon	36.1	-111.8		This study
+CB7	Grand Canyon	36.1	-111.8		This study
+CB8	Grand Canyon	36.1	-111.8		This study
+CB9	Grand Canyon	36.1	-111.8		This study
+CB10	Grand Canyon	36.1	-111.8		This study
+CB11	Grand Canyon	36.1	-111.8		This study
+CB12	Grand Canyon	36.1	-111.8		This study
+CB13	Grand Canyon	36.1	-111.8		This study
+CB14	Grand Canyon	36.1	-111.8		This study
+CB15	Grand Canyon	36.1	-111.8		This study
+CB16	Grand Canyon	36.1	-111.8		This study
+CB17	Grand Canyon	36.1	-111.8		This study
+CB18	Grand Canyon	36.1	-111.8		This study
