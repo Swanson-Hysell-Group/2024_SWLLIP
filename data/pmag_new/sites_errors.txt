@@ -1,0 +1,4 @@
+name	row_number	problem_type	problem_col	error_message
+CB4	61	value	vgp_dm	252.9 (vgp_dm) must be <= 180.0 (180)
+CB4	65	value	vgp_dm	299.3 (vgp_dm) must be <= 180.0 (180)
+CB4	65	value	vgp_dp	248.8 (vgp_dp) must be <= 180.0 (180)
