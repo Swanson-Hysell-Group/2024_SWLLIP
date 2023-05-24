@@ -1,0 +1,17 @@
+tab	sites				
+site	location	lat	lon	analysts	citations
+CS7	Death Valley	35.8	-116.4		This study
+CS8	Death Valley	35.8	-116.4		This study
+CS9	Death Valley	35.8	-116.4		This study
+CS10	Death Valley	35.8	-116.4		This study
+CS11	Death Valley	35.8	-116.4		This study
+CS12	Death Valley	35.8	-116.4		This study
+CS13	Death Valley	35.8	-116.4		This study
+CS1	Death Valley	35.8	-116.4		This study
+CS2	Death Valley	35.8	-116.4		This study
+CS3	Death Valley	35.8	-116.4		This study
+CS4	Death Valley	35.8	-116.4		This study
+CS5	Death Valley	35.8	-116.4		This study
+CS6	Death Valley	35.8	-116.4		This study
+CS14	Death Valley	35.8	-116.4		This study
+CS15	Death Valley	35.8	-116.4		This study

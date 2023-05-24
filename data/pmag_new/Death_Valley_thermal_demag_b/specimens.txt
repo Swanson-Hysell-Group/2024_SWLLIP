@@ -1,0 +1,319 @@
+tab	specimens
+specimen	experiments	sample	dir_alpha95	dir_comp	dir_dec	dir_inc	dir_n_comps	dir_n_measurements	dir_tilt_correction	dir_dang	dir_mad_free	meas_step_max	meas_step_min	meas_step_unit	analysts	instrument_codes	software_packages	int_corr	citations	method_codes	result_quality	volume	weight	location	site
+CS10-1b		CS10-1																	This study	LP-NOMAG				Death Valley	CS10
+CS10-1b	CS10-1b_LP-DIR-T	CS10-1		lt	82.8	0.7	1	4	100	10.7	2.1	523	273	K		hargrave 2023-03-17 18:45:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS10
+CS10-1b	CS10-1b_LP-DIR-T	CS10-1		lt	20.4	70.6	1	4	0	10.7	2.1	523	273	K		hargrave 2023-03-17 18:45:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS10
+CS10-1b	CS10-1b_LP-DIR-T	CS10-1		lt	160.3	10.5	1	4	-1	10.7	2.1	523	273	K		hargrave 2023-03-17 18:45:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS10
+CS10-2b	CS10-2b_LP-DIR-T	CS10-2		lt	92.1	8.3	1	6	100	9.2	4.2	648	273	K		hargrave 2023-03-21 17:56:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS10
+CS10-2b	CS10-2b_LP-DIR-T	CS10-2		lt	170.2	16.3	1	6	-1	9.2	4.2	648	273	K		hargrave 2023-03-21 17:56:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS10
+CS10-2b	CS10-2b_LP-DIR-T	CS10-2		lt	346.6	79.1	1	6	0	9.2	4.2	648	273	K		hargrave 2023-03-21 17:56:23	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS10
+CS10-2b		CS10-2																	This study	LP-NOMAG				Death Valley	CS10
+CS10-3b		CS10-3																	This study	LP-NOMAG				Death Valley	CS10
+CS10-3b	CS10-3b_LP-DIR-T	CS10-3		lt	159.0	28.8	1	4	-1	1.5	3.5	523	273	K		hargrave 2023-03-17 18:48:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS10
+CS10-3b	CS10-3b_LP-DIR-T	CS10-3		lt	334.9	64.2	1	4	0	1.5	3.5	523	273	K		hargrave 2023-03-17 18:48:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS10
+CS10-3b	CS10-3b_LP-DIR-T	CS10-3		lt	80.5	18.6	1	4	100	1.5	3.5	523	273	K		hargrave 2023-03-17 18:48:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS10
+CS10-4b		CS10-4																	This study	LP-NOMAG				Death Valley	CS10
+CS10-4b	CS10-4b_LP-DIR-T	CS10-4		lt	147.6	25.7	1	4	-1	16.9	7.5	523	273	K		hargrave 2023-03-21 21:05:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS10
+CS10-4b	CS10-4b_LP-DIR-T	CS10-4		lt	328.1	50.2	1	4	0	16.9	7.5	523	273	K		hargrave 2023-03-21 21:05:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS10
+CS10-4b	CS10-4b_LP-DIR-T	CS10-4		lt	70.0	29.5	1	4	100	16.9	7.5	523	273	K		hargrave 2023-03-21 21:05:36	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS10
+CS10-5b		CS10-5																	This study	LP-NOMAG				Death Valley	CS10
+CS10-5b	CS10-5b_LP-DIR-T	CS10-5		lt	63.7	4.8	1	3	100	19.4	2.8	423	273	K		hargrave 2023-03-21 21:07:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS10
+CS10-5b	CS10-5b_LP-DIR-T	CS10-5		lt	141.8	-3.6	1	3	-1	19.4	2.8	423	273	K		hargrave 2023-03-21 21:07:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS10
+CS10-5b	CS10-5b_LP-DIR-T	CS10-5		lt	9.0	51.8	1	3	0	19.4	2.8	423	273	K		hargrave 2023-03-21 21:07:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS10
+CS10-6b		CS10-6																	This study	LP-NOMAG				Death Valley	CS10
+CS10-7b	CS10-7b_LP-DIR-T	CS10-7		lt	136.4	17.5	1	3	-1	14.3	1.5	423	273	K		hargrave 2023-03-21 21:08:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS10
+CS10-7b	CS10-7b_LP-DIR-T	CS10-7		lt	60.3	14.3	1	3	100	14.3	1.5	423	273	K		hargrave 2023-03-21 21:08:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS10
+CS10-7b	CS10-7b_LP-DIR-T	CS10-7		lt	354.8	47.6	1	3	0	14.3	1.5	423	273	K		hargrave 2023-03-21 21:08:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS10
+CS10-7b		CS10-7																	This study	LP-NOMAG				Death Valley	CS10
+CS10-8b	CS10-8b_LP-DIR-T	CS10-8		lt	138.5	-8.4	1	4	-1	16.7	6.8	523	273	K		hargrave 2023-03-17 18:57:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS10
+CS10-8b	CS10-8b_LP-DIR-T	CS10-8		lt	26.3	44.0	1	4	0	16.7	6.8	523	273	K		hargrave 2023-03-17 18:57:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS10
+CS10-8b	CS10-8b_LP-DIR-T	CS10-8		lt	57.3	-7.6	1	4	100	16.7	6.8	523	273	K		hargrave 2023-03-17 18:57:30	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS10
+CS10-8b		CS10-8																	This study	LP-NOMAG				Death Valley	CS10
+CS11-1b		CS11-1																	This study	LP-NOMAG				Death Valley	CS11
+CS11-2b		CS11-2																	This study	LP-NOMAG				Death Valley	CS11
+CS11-3b		CS11-3																	This study	LP-NOMAG				Death Valley	CS11
+CS11-4b		CS11-4																	This study	LP-NOMAG				Death Valley	CS11
+CS11-5b		CS11-5																	This study	LP-NOMAG				Death Valley	CS11
+CS11-7b		CS11-7																	This study	LP-NOMAG				Death Valley	CS11
+CS11-8b		CS11-8																	This study	LP-NOMAG				Death Valley	CS11
+CS11-9b		CS11-9																	This study	LP-NOMAG				Death Valley	CS11
+CS12-1b	CS12-1b_LP-DIR-T	CS12-1		lt	71.3	17.2	2	3	100	16.7	0.5	423	273	K		hargrave 2023-03-15 12:43:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-1b	CS12-1b_LP-DIR-T	CS12-1		mt	316.5	54.2	2	10	100	4.6	12.3	846	673	K		hargrave 2023-03-15 12:43:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-1b	CS12-1b_LP-DIR-T	CS12-1		lt	215.6	49.4	2	3	-1	16.7	0.5	423	273	K		hargrave 2023-03-15 12:43:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-1b	CS12-1b_LP-DIR-T	CS12-1		mt	297.9	6.4	2	10	0	4.6	12.3	846	673	K		hargrave 2023-03-15 12:43:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-1b	CS12-1b_LP-DIR-T	CS12-1		mt	133.2	-6.0	2	10	-1	4.6	12.3	846	673	K		hargrave 2023-03-15 12:43:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-1b	CS12-1b_LP-DIR-T	CS12-1		lt	39.3	62.3	2	3	0	16.7	0.5	423	273	K		hargrave 2023-03-15 12:43:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-1b		CS12-1																	This study	LP-NOMAG				Death Valley	CS12
+CS12-2b	CS12-2b_LP-DIR-T	CS12-2		mt	289.7	77.9	2	8	100	0.0	5.0	858	823	K		hargrave 2023-03-16 12:22:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Death Valley	CS12
+CS12-2b		CS12-2																	This study	LP-NOMAG				Death Valley	CS12
+CS12-2b	CS12-2b_LP-DIR-T	CS12-2		lt	230.4	46.0	2	3	-1	60.9	5.6	423	273	K		hargrave 2023-03-16 12:22:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-2b	CS12-2b_LP-DIR-T	CS12-2		mt	137.4	7.0	2	8	-1	0.0	5.0	858	823	K		hargrave 2023-03-16 12:22:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Death Valley	CS12
+CS12-2b	CS12-2b_LP-DIR-T	CS12-2		lt	42.0	56.6	2	3	0	60.9	5.6	423	273	K		hargrave 2023-03-16 12:22:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-2b	CS12-2b_LP-DIR-T	CS12-2		mt	278.3	23.4	2	8	0	0.0	5.0	858	823	K		hargrave 2023-03-16 12:22:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Death Valley	CS12
+CS12-2b	CS12-2b_LP-DIR-T	CS12-2		lt	68.2	12.2	2	3	100	60.9	5.6	423	273	K		hargrave 2023-03-16 12:22:32	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-3b	CS12-3b_LP-DIR-T	CS12-3		mt	296.4	21.6	2	8	0	0.0	12.2	858	823	K		hargrave 2023-03-16 12:24:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Death Valley	CS12
+CS12-3b	CS12-3b_LP-DIR-T	CS12-3		lt	38.8	26.9	2	3	100	29.2	4.3	423	273	K		hargrave 2023-03-16 12:24:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-3b	CS12-3b_LP-DIR-T	CS12-3		mt	334.8	66.8	2	8	100	0.0	12.2	858	823	K		hargrave 2023-03-16 12:24:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Death Valley	CS12
+CS12-3b	CS12-3b_LP-DIR-T	CS12-3		lt	358.5	41.8	2	3	0	29.2	4.3	423	273	K		hargrave 2023-03-16 12:24:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-3b	CS12-3b_LP-DIR-T	CS12-3		mt	192.0	-0.9	2	8	-1	0.0	12.2	858	823	K		hargrave 2023-03-16 12:24:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Death Valley	CS12
+CS12-3b		CS12-3																	This study	LP-NOMAG				Death Valley	CS12
+CS12-3b	CS12-3b_LP-DIR-T	CS12-3		lt	238.6	32.6	2	3	-1	29.2	4.3	423	273	K		hargrave 2023-03-16 12:24:16	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-4b	CS12-4b_LP-DIR-T	CS12-4		mt	279.0	24.8	2	8	0	16.1	11.3	851	798	K		hargrave 2023-03-16 12:27:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-4b		CS12-4																	This study	LP-NOMAG				Death Valley	CS12
+CS12-4b	CS12-4b_LP-DIR-T	CS12-4		lt	193.8	30.2	2	3	-1	18.0	4.6	523	77	K		hargrave 2023-03-16 12:27:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-4b	CS12-4b_LP-DIR-T	CS12-4		mt	159.3	3.4	2	8	-1	16.1	11.3	851	798	K		hargrave 2023-03-16 12:27:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-4b	CS12-4b_LP-DIR-T	CS12-4		mt	294.7	79.0	2	8	100	16.1	11.3	851	798	K		hargrave 2023-03-16 12:27:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-4b	CS12-4b_LP-DIR-T	CS12-4		lt	47.1	53.1	2	3	100	18.0	4.6	523	77	K		hargrave 2023-03-16 12:27:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-4b	CS12-4b_LP-DIR-T	CS12-4		lt	321.5	52.2	2	3	0	18.0	4.6	523	77	K		hargrave 2023-03-16 12:27:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-5b		CS12-5																	This study	LP-NOMAG				Death Valley	CS12
+CS12-5b	CS12-5b_LP-DIR-T	CS12-5		mt	285.3	41.0	2	7	100	0.0	15.6	838	723	K		hargrave 2023-03-15 12:51:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Death Valley	CS12
+CS12-5b	CS12-5b_LP-DIR-T	CS12-5		mt	282.1	-8.4	2	7	-1	0.0	15.6	838	723	K		hargrave 2023-03-15 12:51:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Death Valley	CS12
+CS12-5b	CS12-5b_LP-DIR-T	CS12-5		lt	359.1	25.7	2	3	0	19.9	7.1	423	273	K		hargrave 2023-03-15 12:51:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-5b	CS12-5b_LP-DIR-T	CS12-5		mt	282.9	-13.2	2	7	0	0.0	15.6	838	723	K		hargrave 2023-03-15 12:51:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Death Valley	CS12
+CS12-5b	CS12-5b_LP-DIR-T	CS12-5		lt	348.7	54.3	2	3	-1	19.9	7.1	423	273	K		hargrave 2023-03-15 12:51:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-5b	CS12-5b_LP-DIR-T	CS12-5		lt	23.5	18.9	2	3	100	19.9	7.1	423	273	K		hargrave 2023-03-15 12:51:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-6b		CS12-6																	This study	LP-NOMAG				Death Valley	CS12
+CS12-6b	CS12-6b_LP-DIR-T	CS12-6		mt	301.5	60.6	1	8	100	4.2	7.1	846	723	K		hargrave 2023-03-15 12:52:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-6b	CS12-6b_LP-DIR-T	CS12-6		mt	287.7	8.3	1	8	0	4.2	7.1	846	723	K		hargrave 2023-03-15 12:52:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-6b	CS12-6b_LP-DIR-T	CS12-6		mt	234.3	-17.1	1	8	-1	4.2	7.1	846	723	K		hargrave 2023-03-15 12:52:43	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-7b	CS12-7b_LP-DIR-T	CS12-7		mt	157.9	-25.9	1	9	-1	6.9	3.7	846	723	K		hargrave 2023-03-15 12:54:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-7b	CS12-7b_LP-DIR-T	CS12-7		mt	279.0	6.9	1	9	0	6.9	3.7	846	723	K		hargrave 2023-03-15 12:54:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-7b	CS12-7b_LP-DIR-T	CS12-7		mt	283.4	61.5	1	9	100	6.9	3.7	846	723	K		hargrave 2023-03-15 12:54:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-7b		CS12-7																	This study	LP-NOMAG				Death Valley	CS12
+CS12-8b	CS12-8b_LP-DIR-T	CS12-8		mt	308.1	57.7	1	7	100	8.8	2.8	846	798	K		hargrave 2023-03-15 12:55:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS12
+CS12-8b	CS12-8b_LP-DIR-T	CS12-8		mt	292.1	7.0	1	7	0	8.8	2.8	846	798	K		hargrave 2023-03-15 12:55:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS12
+CS12-8b	CS12-8b_LP-DIR-T	CS12-8		mt	256.0	0.1	1	7	-1	8.8	2.8	846	798	K		hargrave 2023-03-15 12:55:33	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS12
+CS12-8b		CS12-8																	This study	LP-NOMAG				Death Valley	CS12
+CS13-1b	CS13-1b_LP-DIR-T	CS13-1		lt	21.6	-1.4	2	3	100	52.9	6.0	423	273	K		hargrave 2023-03-21 19:20:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS13
+CS13-1b	CS13-1b_LP-DIR-T	CS13-1		lt	338.5	54.6	2	3	0	52.9	6.0	423	273	K		hargrave 2023-03-21 19:20:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS13
+CS13-1b	CS13-1b_LP-DIR-T	CS13-1		mt	264.4	8.3	2	14	-1	28.9	10.0	873	723	K		hargrave 2023-03-21 19:20:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS13
+CS13-1b	CS13-1b_LP-DIR-T	CS13-1		lt	206.7	71.7	2	3	-1	52.9	6.0	423	273	K		hargrave 2023-03-21 19:20:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS13
+CS13-1b		CS13-1																	This study	LP-NOMAG				Death Valley	CS13
+CS13-1b	CS13-1b_LP-DIR-T	CS13-1		mt	265.6	9.5	2	14	0	28.9	10.0	873	723	K		hargrave 2023-03-21 19:20:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS13
+CS13-1b	CS13-1b_LP-DIR-T	CS13-1		mt	333.0	60.6	2	14	100	28.9	10.0	873	723	K		hargrave 2023-03-21 19:20:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS13
+CS13-2b		CS13-2																	This study	LP-NOMAG				Death Valley	CS13
+CS13-3b		CS13-3																	This study	LP-NOMAG				Death Valley	CS13
+CS13-3b	CS13-3b_LP-DIR-T	CS13-3		lt	128.0	50.7	1	4	-1	24.8	5.1	523	273	K		hargrave 2023-03-15 13:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS13
+CS13-3b	CS13-3b_LP-DIR-T	CS13-3		lt	355.0	57.5	1	4	0	24.8	5.1	523	273	K		hargrave 2023-03-15 13:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS13
+CS13-3b	CS13-3b_LP-DIR-T	CS13-3		lt	27.6	-8.9	1	4	100	24.8	5.1	523	273	K		hargrave 2023-03-15 13:00:00	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS13
+CS13-4b	CS13-4b_LP-DIR-T	CS13-4		lt	18.0	-20.8	1	3	100	71.2	2.0	423	273	K		hargrave 2023-03-21 19:25:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS13
+CS13-4b		CS13-4																	This study	LP-NOMAG				Death Valley	CS13
+CS13-4b	CS13-4b_LP-DIR-T	CS13-4		lt	3.5	43.5	1	3	0	71.2	2.0	423	273	K		hargrave 2023-03-21 19:25:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS13
+CS13-4b	CS13-4b_LP-DIR-T	CS13-4		lt	3.7	60.4	1	3	-1	71.2	2.0	423	273	K		hargrave 2023-03-21 19:25:59	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS13
+CS13-5b		CS13-5																	This study	LP-NOMAG				Death Valley	CS13
+CS13-6b	CS13-6b_LP-DIR-T	CS13-6		lt	44.6	-12.4	1	4	100	49.4	8.5	523	273	K		hargrave 2023-03-21 19:27:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS13
+CS13-6b	CS13-6b_LP-DIR-T	CS13-6		lt	171.7	30.1	1	4	-1	49.4	8.5	523	273	K		hargrave 2023-03-21 19:27:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS13
+CS13-6b	CS13-6b_LP-DIR-T	CS13-6		lt	25.7	67.5	1	4	0	49.4	8.5	523	273	K		hargrave 2023-03-21 19:27:29	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS13
+CS13-6b		CS13-6																	This study	LP-NOMAG				Death Valley	CS13
+CS13-7b	CS13-7b_LP-DIR-T	CS13-7		lt	349.7	57.0	1	4	0	27.0	4.2	523	273	K		hargrave 2023-03-16 12:34:11	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS13
+CS13-7b	CS13-7b_LP-DIR-T	CS13-7		lt	25.8	-6.6	1	4	100	27.0	4.2	523	273	K		hargrave 2023-03-16 12:34:11	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS13
+CS13-7b	CS13-7b_LP-DIR-T	CS13-7		lt	351.3	74.9	1	4	-1	27.0	4.2	523	273	K		hargrave 2023-03-16 12:34:11	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS13
+CS13-7b		CS13-7																	This study	LP-NOMAG				Death Valley	CS13
+CS14-1b	CS14-1b_LP-DIR-T	CS14-1		lt	151.1	27.8	1	3	-1	10.0	9.6	423	273	K		hargrave 2023-03-19 17:03:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS14
+CS14-1b		CS14-1																	This study	LP-NOMAG				Death Valley	CS14
+CS14-1b	CS14-1b_LP-DIR-T	CS14-1		lt	318.2	59.8	1	3	0	10.0	9.6	423	273	K		hargrave 2023-03-19 17:03:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS14
+CS14-1b	CS14-1b_LP-DIR-T	CS14-1		lt	65.9	53.8	1	3	100	10.0	9.6	423	273	K		hargrave 2023-03-19 17:03:04	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS14
+CS14-2b		CS14-2																	This study	LP-NOMAG				Death Valley	CS14
+CS14-3b	CS14-3b_LP-DIR-T	CS14-3		lt	75.5	50.1	1	4	100	6.3	8.5	523	273	K		hargrave 2023-03-19 17:05:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS14
+CS14-3b	CS14-3b_LP-DIR-T	CS14-3		lt	318.4	66.8	1	4	0	6.3	8.5	523	273	K		hargrave 2023-03-19 17:05:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS14
+CS14-3b	CS14-3b_LP-DIR-T	CS14-3		lt	217.0	50.6	1	4	-1	6.3	8.5	523	273	K		hargrave 2023-03-19 17:05:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS14
+CS14-3b		CS14-3																	This study	LP-NOMAG				Death Valley	CS14
+CS14-4b		CS14-4																	This study	LP-NOMAG				Death Valley	CS14
+CS14-7b		CS14-7																	This study	LP-NOMAG				Death Valley	CS14
+CS14-8b	CS14-8b_LP-DIR-T	CS14-8		lt	40.6	40.1	1	4	100	12.1	22.3	523	273	K		hargrave 2023-03-19 17:10:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS14
+CS14-8b	CS14-8b_LP-DIR-T	CS14-8		lt	343.5	44.1	1	4	0	12.1	22.3	523	273	K		hargrave 2023-03-19 17:10:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS14
+CS14-8b	CS14-8b_LP-DIR-T	CS14-8		lt	247.3	39.0	1	4	-1	12.1	22.3	523	273	K		hargrave 2023-03-19 17:10:09	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS14
+CS14-8b		CS14-8																	This study	LP-NOMAG				Death Valley	CS14
+CS15-1b	CS15-1b_LP-DIR-T	CS15-1		lt	16.9	45.1	1	3	0	53.9	2.4	423	273	K		hargrave 2023-03-21 19:28:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS15
+CS15-1b	CS15-1b_LP-DIR-T	CS15-1		lt	223.6	25.1	1	3	-1	53.9	2.4	423	273	K		hargrave 2023-03-21 19:28:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS15
+CS15-1b		CS15-1																	This study	LP-NOMAG				Death Valley	CS15
+CS15-1b	CS15-1b_LP-DIR-T	CS15-1		lt	53.8	9.3	1	3	100	53.9	2.4	423	273	K		hargrave 2023-03-21 19:28:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS15
+CS15-2b		CS15-2																	This study	LP-NOMAG				Death Valley	CS15
+CS15-3b		CS15-3																	This study	LP-NOMAG				Death Valley	CS15
+CS15-3b	CS15-3b_LP-DIR-T	CS15-3		lt	39.3	5.2	1	4	100	12.5	4.4	523	273	K		hargrave 2023-03-21 19:31:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS15
+CS15-3b	CS15-3b_LP-DIR-T	CS15-3		lt	15.3	30.2	1	4	0	12.5	4.4	523	273	K		hargrave 2023-03-21 19:31:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS15
+CS15-3b	CS15-3b_LP-DIR-T	CS15-3		lt	277.3	30.9	1	4	-1	12.5	4.4	523	273	K		hargrave 2023-03-21 19:31:44	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS15
+CS15-4b		CS15-4																	This study	LP-NOMAG				Death Valley	CS15
+CS15-4b	CS15-4b_LP-DIR-T	CS15-4		lt	55.1	41.1	1	3	-1	61.9	0.5	423	273	K		hargrave 2023-03-21 19:33:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS15
+CS15-4b	CS15-4b_LP-DIR-T	CS15-4		lt	31.5	25.9	1	3	0	61.9	0.5	423	273	K		hargrave 2023-03-21 19:33:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS15
+CS15-4b	CS15-4b_LP-DIR-T	CS15-4		lt	41.5	-9.5	1	3	100	61.9	0.5	423	273	K		hargrave 2023-03-21 19:33:10	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS15
+CS15-6b		CS15-6																	This study	LP-NOMAG				Death Valley	CS15
+CS15-6b	CS15-6b_LP-DIR-T	CS15-6		lt	26.6	21.0	1	3	0	38.4	3.4	423	273	K		hargrave 2023-03-21 19:34:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS15
+CS15-6b	CS15-6b_LP-DIR-T	CS15-6		lt	35.0	-7.9	1	3	100	38.4	3.4	423	273	K		hargrave 2023-03-21 19:34:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS15
+CS15-6b	CS15-6b_LP-DIR-T	CS15-6		lt	358.1	44.9	1	3	-1	38.4	3.4	423	273	K		hargrave 2023-03-21 19:34:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS15
+CS15-7b	CS15-7b_LP-DIR-T	CS15-7		lt	13.2	6.0	1	3	0	19.7	0.9	423	273	K		hargrave 2023-03-21 19:36:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS15
+CS15-7b	CS15-7b_LP-DIR-T	CS15-7		lt	16.1	-1.8	1	3	100	19.7	0.9	423	273	K		hargrave 2023-03-21 19:36:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS15
+CS15-7b		CS15-7																	This study	LP-NOMAG				Death Valley	CS15
+CS15-7b	CS15-7b_LP-DIR-T	CS15-7		lt	45.4	34.6	1	3	-1	19.7	0.9	423	273	K		hargrave 2023-03-21 19:36:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS15
+CS15-8b		CS15-8																	This study	LP-NOMAG				Death Valley	CS15
+CS15-8b	CS15-8b_LP-DIR-T	CS15-8		lt	67.3	25.7	1	4	-1	31.0	5.4	523	273	K		hargrave 2023-03-21 19:37:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS15
+CS15-8b	CS15-8b_LP-DIR-T	CS15-8		lt	22.2	18.2	1	4	0	31.0	5.4	523	273	K		hargrave 2023-03-21 19:37:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS15
+CS15-8b	CS15-8b_LP-DIR-T	CS15-8		lt	30.7	-5.3	1	4	100	31.0	5.4	523	273	K		hargrave 2023-03-21 19:37:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS15
+CS3-1b		CS3-1																	This study	LP-NOMAG				Death Valley	CS3
+CS3-1b	CS3-1b_LP-DIR-T	CS3-1		lt	57.3	76.6	1	5	-1	8.4	4.1	673	423	K		hargrave 2023-03-17 18:08:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-1b	CS3-1b_LP-DIR-T	CS3-1		lt	359.3	58.8	1	5	0	8.4	4.1	673	423	K		hargrave 2023-03-17 18:08:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-1b	CS3-1b_LP-DIR-T	CS3-1		lt	43.2	65.4	1	5	100	8.4	4.1	673	423	K		hargrave 2023-03-17 18:08:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		ht	12.8	71.6	3	4	100	0.0	5.9	948	918	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		lt	18.1	65.3	3	3	100	3.7	6.3	423	273	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		mt	349.2	67.2	3	8	100	4.6	5.0	857	823	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		lt	346.1	51.5	3	3	0	3.7	6.3	423	273	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		ht	337.0	55.3	3	4	0	0.0	5.9	948	918	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		ht	109.7	55.7	3	4	-1	0.0	5.9	948	918	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		lt	111.5	49.2	3	3	-1	3.7	6.3	423	273	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		mt	94.1	53.5	3	8	-1	4.6	5.0	857	823	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-2b		CS3-2																	This study	LP-NOMAG				Death Valley	CS3
+CS3-2b	CS3-2b_LP-DIR-T	CS3-2		mt	329.3	47.3	3	8	0	4.6	5.0	857	823	K		hargrave 2023-03-21 20:57:08	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		ht	358.1	62.2	3	9	100	19.6	7.5	938	875	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		mt	5.8	69.5	3	9	100	1.8	5.0	857	773	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		lt	339.3	61.2	3	3	0	6.0	3.0	423	273	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		ht	337.2	44.3	3	9	0	19.6	7.5	938	875	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		lt	109.5	66.2	3	3	-1	6.0	3.0	423	273	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		ht	80.5	56.2	3	9	-1	19.6	7.5	938	875	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		mt	89.9	62.6	3	9	-1	1.8	5.0	857	773	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-4b		CS3-4																	This study	LP-NOMAG				Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		mt	336.0	52.2	3	9	0	1.8	5.0	857	773	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-4b	CS3-4b_LP-DIR-T	CS3-4		lt	30.7	74.8	3	3	100	6.0	3.0	423	273	K		hargrave 2023-03-21 17:30:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-5b	CS3-5b_LP-DIR-T	CS3-5		mt	40.7	54.7	2	9	-1	2.3	4.6	857	773	K		hargrave 2023-03-21 20:58:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-5b	CS3-5b_LP-DIR-T	CS3-5		ht	35.4	56.4	2	11	-1	1.7	3.0	948	875	K		hargrave 2023-03-21 20:58:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-O:DA-DIR	g			Death Valley	CS3
+CS3-5b	CS3-5b_LP-DIR-T	CS3-5		mt	349.8	38.1	2	9	0	2.3	4.6	857	773	K		hargrave 2023-03-21 20:58:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-5b	CS3-5b_LP-DIR-T	CS3-5		mt	8.9	52.4	2	9	100	2.3	4.6	857	773	K		hargrave 2023-03-21 20:58:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-5b	CS3-5b_LP-DIR-T	CS3-5		ht	4.4	54.6	2	11	100	1.7	3.0	948	875	K		hargrave 2023-03-21 20:58:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-O:DA-DIR-TILT	g			Death Valley	CS3
+CS3-5b	CS3-5b_LP-DIR-T	CS3-5		ht	345.5	38.9	2	11	0	1.7	3.0	948	875	K		hargrave 2023-03-21 20:58:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-O:DA-DIR-GEO	g			Death Valley	CS3
+CS3-5b		CS3-5																	This study	LP-NOMAG				Death Valley	CS3
+CS3-6b		CS3-6																	This study	LP-NOMAG				Death Valley	CS3
+CS3-6b	CS3-6b_LP-DIR-T	CS3-6		ht	2.4	73.6	2	7	100	0.0	4.2	918	875	K		hargrave 2023-03-21 21:00:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Death Valley	CS3
+CS3-6b	CS3-6b_LP-DIR-T	CS3-6		mt	9.2	69.1	2	9	100	1.7	3.5	857	773	K		hargrave 2023-03-21 21:00:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-6b	CS3-6b_LP-DIR-T	CS3-6		ht	330.6	55.0	2	7	0	0.0	4.2	918	875	K		hargrave 2023-03-21 21:00:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Death Valley	CS3
+CS3-6b	CS3-6b_LP-DIR-T	CS3-6		mt	337.9	52.6	2	9	0	1.7	3.5	857	773	K		hargrave 2023-03-21 21:00:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-6b	CS3-6b_LP-DIR-T	CS3-6		ht	83.1	71.4	2	7	-1	0.0	4.2	918	875	K		hargrave 2023-03-21 21:00:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Death Valley	CS3
+CS3-6b	CS3-6b_LP-DIR-T	CS3-6		mt	85.2	66.6	2	9	-1	1.7	3.5	857	773	K		hargrave 2023-03-21 21:00:13	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-7b	CS3-7b_LP-DIR-T	CS3-7		lt	61.1	63.8	1	8	100	15.5	10.5	723	273	K		hargrave 2023-03-21 21:01:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS3
+CS3-7b	CS3-7b_LP-DIR-T	CS3-7		lt	92.7	69.8	1	8	-1	15.5	10.5	723	273	K		hargrave 2023-03-21 21:01:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS3
+CS3-7b	CS3-7b_LP-DIR-T	CS3-7		lt	11.8	63.8	1	8	0	15.5	10.5	723	273	K		hargrave 2023-03-21 21:01:41	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS3
+CS3-7b		CS3-7																	This study	LP-NOMAG				Death Valley	CS3
+CS3-8b		CS3-8																	This study	LP-NOMAG				Death Valley	CS3
+CS4-1b	CS4-1b_LP-DIR-T	CS4-1		lt	20.8	48.0	1	3	0	20.2	0.4	423	273	K		hargrave 2023-03-21 17:37:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS4
+CS4-1b		CS4-1																	This study	LP-NOMAG				Death Valley	CS4
+CS4-1b	CS4-1b_LP-DIR-T	CS4-1		lt	68.0	66.2	1	3	100	20.2	0.4	423	273	K		hargrave 2023-03-21 17:37:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS4
+CS4-1b	CS4-1b_LP-DIR-T	CS4-1		lt	4.0	84.0	1	3	-1	20.2	0.4	423	273	K		hargrave 2023-03-21 17:37:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS4
+CS4-2b		CS4-2																	This study	LP-NOMAG				Death Valley	CS4
+CS4-3b	CS4-3b_LP-DIR-T	CS4-3		lt	16.7	62.4	1	4	0	14.9	1.3	523	273	K		hargrave 2023-03-21 17:40:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS4
+CS4-3b	CS4-3b_LP-DIR-T	CS4-3		lt	135.3	77.9	1	4	-1	14.9	1.3	523	273	K		hargrave 2023-03-21 17:40:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS4
+CS4-3b	CS4-3b_LP-DIR-T	CS4-3		lt	106.2	72.8	1	4	100	14.9	1.3	523	273	K		hargrave 2023-03-21 17:40:19	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS4
+CS4-3b		CS4-3																	This study	LP-NOMAG				Death Valley	CS4
+CS4-4b		CS4-4																	This study	LP-NOMAG				Death Valley	CS4
+CS4-4b	CS4-4b_LP-DIR-T	CS4-4		lt	153.8	68.3	1	8	100	15.6	0.9	723	273	K		hargrave 2023-03-21 17:42:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS4
+CS4-4b	CS4-4b_LP-DIR-T	CS4-4		lt	200.4	82.6	1	8	-1	15.6	0.9	723	273	K		hargrave 2023-03-21 17:42:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS4
+CS4-4b	CS4-4b_LP-DIR-T	CS4-4		lt	2.0	77.7	1	8	0	15.6	0.9	723	273	K		hargrave 2023-03-21 17:42:03	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS4
+CS4-5b		CS4-5																	This study	LP-NOMAG				Death Valley	CS4
+CS4-5b	CS4-5b_LP-DIR-T	CS4-5		lt	98.0	81.0	1	4	100	19.3	4.2	623	77	K		hargrave 2023-03-17 18:26:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS4
+CS4-5b	CS4-5b_LP-DIR-T	CS4-5		lt	0.3	59.6	1	4	0	19.3	4.2	623	77	K		hargrave 2023-03-17 18:26:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS4
+CS4-5b	CS4-5b_LP-DIR-T	CS4-5		lt	101.5	80.2	1	4	-1	19.3	4.2	623	77	K		hargrave 2023-03-17 18:26:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS4
+CS4-6b	CS4-6b_LP-DIR-T	CS4-6		lt	358.6	75.7	1	4	0	7.0	0.5	523	273	K		hargrave 2023-03-17 18:27:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS4
+CS4-6b	CS4-6b_LP-DIR-T	CS4-6		lt	172.9	75.0	1	4	-1	7.0	0.5	523	273	K		hargrave 2023-03-17 18:27:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS4
+CS4-6b		CS4-6																	This study	LP-NOMAG				Death Valley	CS4
+CS4-6b	CS4-6b_LP-DIR-T	CS4-6		lt	153.3	70.4	1	4	100	7.0	0.5	523	273	K		hargrave 2023-03-17 18:27:40	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS4
+CS4-7b		CS4-7																	This study	LP-NOMAG				Death Valley	CS4
+CS4-8b		CS4-8																	This study	LP-NOMAG				Death Valley	CS4
+CS4-9b		CS4-9																	This study	LP-NOMAG				Death Valley	CS4
+CS5-1b	CS5-1b_LP-DIR-T	CS5-1		lt	172.1	-28.4	1	4	-1	13.4	3.8	523	273	K		hargrave 2023-03-21 21:03:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS5
+CS5-1b	CS5-1b_LP-DIR-T	CS5-1		lt	358.1	54.7	1	4	0	13.4	3.8	523	273	K		hargrave 2023-03-21 21:03:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS5
+CS5-1b	CS5-1b_LP-DIR-T	CS5-1		lt	42.1	24.3	1	4	100	13.4	3.8	523	273	K		hargrave 2023-03-21 21:03:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS5
+CS5-1b		CS5-1																	This study	LP-NOMAG				Death Valley	CS5
+CS5-2b		CS5-2																	This study	LP-NOMAG				Death Valley	CS5
+CS5-3b	CS5-3b_LP-DIR-T	CS5-3		lt	145.4	38.5	1	3	-1	27.3	0.4	423	273	K		hargrave 2023-03-21 17:49:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS5
+CS5-3b	CS5-3b_LP-DIR-T	CS5-3		lt	2.5	60.8	1	3	0	27.3	0.4	423	273	K		hargrave 2023-03-21 17:49:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS5
+CS5-3b	CS5-3b_LP-DIR-T	CS5-3		lt	49.2	25.0	1	3	100	27.3	0.4	423	273	K		hargrave 2023-03-21 17:49:07	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS5
+CS5-3b		CS5-3																	This study	LP-NOMAG				Death Valley	CS5
+CS5-4b		CS5-4																	This study	LP-NOMAG				Death Valley	CS5
+CS5-4b	CS5-4b_LP-DIR-T	CS5-4		lt	152.0	36.0	1	5	-1	18.6	3.0	623	273	K		hargrave 2023-03-21 17:50:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS5
+CS5-4b	CS5-4b_LP-DIR-T	CS5-4		lt	7.1	38.7	1	5	0	18.6	3.0	623	273	K		hargrave 2023-03-21 17:50:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS5
+CS5-4b	CS5-4b_LP-DIR-T	CS5-4		lt	31.3	10.6	1	5	100	18.6	3.0	623	273	K		hargrave 2023-03-21 17:50:31	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS5
+CS5-5b	CS5-5b_LP-DIR-T	CS5-5		lt	93.0	72.3	1	8	-1	28.8	7.9	723	273	K		hargrave 2023-03-21 17:51:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS5
+CS5-5b	CS5-5b_LP-DIR-T	CS5-5		lt	313.8	62.8	1	8	0	28.8	7.9	723	273	K		hargrave 2023-03-21 17:51:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS5
+CS5-5b		CS5-5																	This study	LP-NOMAG				Death Valley	CS5
+CS5-5b	CS5-5b_LP-DIR-T	CS5-5		lt	48.5	47.6	1	8	100	28.8	7.9	723	273	K		hargrave 2023-03-21 17:51:56	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS5
+CS5-6b	CS5-6b_LP-DIR-T	CS5-6		lt	142.3	43.6	1	3	-1	156.4	3.3	423	273	K		hargrave 2023-03-21 17:53:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS5
+CS5-6b	CS5-6b_LP-DIR-T	CS5-6		lt	22.8	63.4	1	3	0	156.4	3.3	423	273	K		hargrave 2023-03-21 17:53:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS5
+CS5-6b	CS5-6b_LP-DIR-T	CS5-6		lt	57.4	18.8	1	3	100	156.4	3.3	423	273	K		hargrave 2023-03-21 17:53:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS5
+CS5-6b		CS5-6																	This study	LP-NOMAG				Death Valley	CS5
+CS5-8b	CS5-8b_LP-DIR-T	CS5-8		lt	44.5	15.9	1	3	100	132.7	2.2	423	273	K		hargrave 2023-03-21 17:54:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS5
+CS5-8b	CS5-8b_LP-DIR-T	CS5-8		lt	218.4	19.3	1	3	-1	132.7	2.2	423	273	K		hargrave 2023-03-21 17:54:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS5
+CS5-8b	CS5-8b_LP-DIR-T	CS5-8		lt	12.0	52.1	1	3	0	132.7	2.2	423	273	K		hargrave 2023-03-21 17:54:51	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS5
+CS5-8b		CS5-8																	This study	LP-NOMAG				Death Valley	CS5
+CS7-2b	CS7-2b_LP-DIR-T	CS7-2		lt	358.6	69.8	1	4	0	18.0	4.4	523	273	K		hargrave 2023-02-23 15:30:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS7
+CS7-2b	CS7-2b_LP-DIR-T	CS7-2		lt	225.3	70.0	1	4	-1	18.0	4.4	523	273	K		hargrave 2023-02-23 15:30:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS7
+CS7-2b	CS7-2b_LP-DIR-T	CS7-2		lt	83.3	32.7	1	4	100	18.0	4.4	523	273	K		hargrave 2023-02-23 15:30:50	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS7
+CS7-2b		CS7-2																	This study	LP-NOMAG				Death Valley	CS7
+CS7-3b		CS7-3																	This study	LP-NOMAG				Death Valley	CS7
+CS7-3b	CS7-3b_LP-DIR-T	CS7-3		lt	15.7	53.8	1	3	0	15.6	5.4	523	77	K		hargrave 2023-02-23 15:32:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS7
+CS7-3b	CS7-3b_LP-DIR-T	CS7-3		lt	66.4	23.0	1	3	100	15.6	5.4	523	77	K		hargrave 2023-02-23 15:32:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS7
+CS7-3b	CS7-3b_LP-DIR-T	CS7-3		lt	303.6	74.1	1	3	-1	15.6	5.4	523	77	K		hargrave 2023-02-23 15:32:21	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS7
+CS7-4b		CS7-4																	This study	LP-NOMAG				Death Valley	CS7
+CS7-4b	CS7-4b_LP-DIR-T	CS7-4		mt	339.4	48.2	1	4	-1	25.4	2.7	843	773	K		hargrave 2023-02-23 15:33:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS7
+CS7-4b	CS7-4b_LP-DIR-T	CS7-4		mt	309.3	14.6	1	4	0	25.4	2.7	843	773	K		hargrave 2023-02-23 15:33:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS7
+CS7-4b	CS7-4b_LP-DIR-T	CS7-4		mt	348.0	64.6	1	4	100	25.4	2.7	843	773	K		hargrave 2023-02-23 15:33:54	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS7
+CS7-5b	CS7-5b_LP-DIR-T	CS7-5		mt	2.8	61.6	2	6	-1	0.0	7.2	843	773	K		hargrave 2023-02-23 15:35:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Death Valley	CS7
+CS7-5b	CS7-5b_LP-DIR-T	CS7-5		lt	8.2	47.0	2	3	0	17.7	14.3	423	273	K		hargrave 2023-02-23 15:35:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS7
+CS7-5b	CS7-5b_LP-DIR-T	CS7-5		mt	314.4	0.6	2	6	0	0.0	7.2	843	773	K		hargrave 2023-02-23 15:35:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Death Valley	CS7
+CS7-5b	CS7-5b_LP-DIR-T	CS7-5		lt	57.8	25.7	2	3	100	17.7	14.3	423	273	K		hargrave 2023-02-23 15:35:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS7
+CS7-5b	CS7-5b_LP-DIR-T	CS7-5		mt	335.2	51.3	2	6	100	0.0	7.2	843	773	K		hargrave 2023-02-23 15:35:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Death Valley	CS7
+CS7-5b	CS7-5b_LP-DIR-T	CS7-5		lt	128.8	44.1	2	3	-1	17.7	14.3	423	273	K		hargrave 2023-02-23 15:35:22	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS7
+CS7-5b		CS7-5																	This study	LP-NOMAG				Death Valley	CS7
+CS7-6b		CS7-6																	This study	LP-NOMAG				Death Valley	CS7
+CS7-6b	CS7-6b_LP-DIR-T	CS7-6		lt	81.6	24.6	1	3	100	13.4	6.4	423	273	K		hargrave 2023-02-23 15:36:49	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS7
+CS7-6b	CS7-6b_LP-DIR-T	CS7-6		lt	20.6	67.6	1	3	0	13.4	6.4	423	273	K		hargrave 2023-02-23 15:36:49	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS7
+CS7-6b	CS7-6b_LP-DIR-T	CS7-6		lt	127.5	67.1	1	3	-1	13.4	6.4	423	273	K		hargrave 2023-02-23 15:36:49	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS7
+CS7-7b	CS7-7b_LP-DIR-T	CS7-7		lt	6.4	78.4	1	4	0	13.5	3.4	523	273	K		hargrave 2023-02-23 15:38:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS7
+CS7-7b	CS7-7b_LP-DIR-T	CS7-7		lt	156.4	73.3	1	4	-1	13.5	3.4	523	273	K		hargrave 2023-02-23 15:38:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS7
+CS7-7b	CS7-7b_LP-DIR-T	CS7-7		lt	93.1	29.9	1	4	100	13.5	3.4	523	273	K		hargrave 2023-02-23 15:38:20	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS7
+CS7-7b		CS7-7																	This study	LP-NOMAG				Death Valley	CS7
+CS7-8b	CS7-8b_LP-DIR-T	CS7-8		lt	357.3	65.8	1	4	0	12.5	7.6	523	273	K		hargrave 2023-02-23 15:40:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS7
+CS7-8b	CS7-8b_LP-DIR-T	CS7-8		lt	78.6	33.6	1	4	100	12.5	7.6	523	273	K		hargrave 2023-02-23 15:40:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS7
+CS7-8b	CS7-8b_LP-DIR-T	CS7-8		lt	139.4	57.9	1	4	-1	12.5	7.6	523	273	K		hargrave 2023-02-23 15:40:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS7
+CS7-8b		CS7-8																	This study	LP-NOMAG				Death Valley	CS7
+CS7-9b	CS7-9b_LP-DIR-T	CS7-9		lt	69.2	29.2	1	4	100	22.3	4.1	648	423	K		hargrave 2023-02-23 15:41:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS7
+CS7-9b	CS7-9b_LP-DIR-T	CS7-9		lt	5.9	57.7	1	4	0	22.3	4.1	648	423	K		hargrave 2023-02-23 15:41:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS7
+CS7-9b	CS7-9b_LP-DIR-T	CS7-9		lt	141.5	35.5	1	4	-1	22.3	4.1	648	423	K		hargrave 2023-02-23 15:41:37	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS7
+CS7-9b		CS7-9																	This study	LP-NOMAG				Death Valley	CS7
+CS9-1b		CS9-1																	This study	LP-NOMAG				Death Valley	CS9
+CS9-1b	CS9-1b_LP-DIR-T	CS9-1		lt	70.8	33.6	1	4	100	36.2	16.2	523	273	K		hargrave 2023-02-23 15:44:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
+CS9-1b	CS9-1b_LP-DIR-T	CS9-1		lt	26.4	39.0	1	4	0	36.2	16.2	523	273	K		hargrave 2023-02-23 15:44:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-1b	CS9-1b_LP-DIR-T	CS9-1		lt	184.2	8.1	1	4	-1	36.2	16.2	523	273	K		hargrave 2023-02-23 15:44:18	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-2b	CS9-2b_LP-DIR-T	CS9-2		lt	103.8	38.2	1	4	100	31.5	6.6	523	273	K		hargrave 2023-02-23 15:47:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
+CS9-2b	CS9-2b_LP-DIR-T	CS9-2		lt	28.0	66.0	1	4	0	31.5	6.6	523	273	K		hargrave 2023-02-23 15:47:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-2b	CS9-2b_LP-DIR-T	CS9-2		lt	185.7	32.4	1	4	-1	31.5	6.6	523	273	K		hargrave 2023-02-23 15:47:28	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-2b		CS9-2																	This study	LP-NOMAG				Death Valley	CS9
+CS9-3b	CS9-3b_LP-DIR-T	CS9-3		lt	111.4	51.9	1	3	100	33.6	2.4	523	77	K		hargrave 2023-02-23 15:49:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
+CS9-3b	CS9-3b_LP-DIR-T	CS9-3		lt	165.0	31.9	1	3	-1	33.6	2.4	523	77	K		hargrave 2023-02-23 15:49:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-3b		CS9-3																	This study	LP-NOMAG				Death Valley	CS9
+CS9-3b	CS9-3b_LP-DIR-T	CS9-3		lt	350.6	67.1	1	3	0	33.6	2.4	523	77	K		hargrave 2023-02-23 15:49:05	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-4b		CS9-4																	This study	LP-NOMAG				Death Valley	CS9
+CS9-4b	CS9-4b_LP-DIR-T	CS9-4		lt	18.2	76.2	1	4	0	39.0	4.2	623	77	K		hargrave 2023-02-23 15:50:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-4b	CS9-4b_LP-DIR-T	CS9-4		lt	176.6	25.5	1	4	-1	39.0	4.2	623	77	K		hargrave 2023-02-23 15:50:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-4b	CS9-4b_LP-DIR-T	CS9-4		lt	117.3	40.3	1	4	100	39.0	4.2	623	77	K		hargrave 2023-02-23 15:50:42	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
+CS9-5b	CS9-5b_LP-DIR-T	CS9-5		lt	104.5	63.5	2	3	100	23.3	9.0	423	273	K		hargrave 2023-02-23 15:52:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
+CS9-5b	CS9-5b_LP-DIR-T	CS9-5		mt	322.7	-15.5	2	7	0	0.0	9.1	843	773	K		hargrave 2023-02-23 15:52:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Death Valley	CS9
+CS9-5b	CS9-5b_LP-DIR-T	CS9-5		mt	324.8	38.3	2	7	100	0.0	9.1	843	773	K		hargrave 2023-02-23 15:52:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Death Valley	CS9
+CS9-5b	CS9-5b_LP-DIR-T	CS9-5		lt	337.0	56.7	2	3	0	23.3	9.0	423	273	K		hargrave 2023-02-23 15:52:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-5b	CS9-5b_LP-DIR-T	CS9-5		mt	94.5	-28.5	2	7	-1	0.0	9.1	843	773	K		hargrave 2023-02-23 15:52:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Death Valley	CS9
+CS9-5b		CS9-5																	This study	LP-NOMAG				Death Valley	CS9
+CS9-5b	CS9-5b_LP-DIR-T	CS9-5		lt	153.4	17.6	2	3	-1	23.3	9.0	423	273	K		hargrave 2023-02-23 15:52:17	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-6b		CS9-6																	This study	LP-NOMAG				Death Valley	CS9
+CS9-6b	CS9-6b_LP-DIR-T	CS9-6		lt	160.8	25.3	2	5	-1	50.7	7.3	648	77	K		hargrave 2023-02-23 14:21:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-6b	CS9-6b_LP-DIR-T	CS9-6		mt	112.3	-31.1	2	4	-1	0.0	13.1	834	773	K		hargrave 2023-02-23 14:21:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR	g			Death Valley	CS9
+CS9-6b	CS9-6b_LP-DIR-T	CS9-6		lt	320.2	70.8	2	5	0	50.7	7.3	648	77	K		hargrave 2023-02-23 14:21:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-6b	CS9-6b_LP-DIR-T	CS9-6		mt	332.7	-1.7	2	4	0	0.0	13.1	834	773	K		hargrave 2023-02-23 14:21:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Death Valley	CS9
+CS9-6b	CS9-6b_LP-DIR-T	CS9-6		lt	130.1	54.4	2	5	100	50.7	7.3	648	77	K		hargrave 2023-02-23 14:21:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
+CS9-6b	CS9-6b_LP-DIR-T	CS9-6		mt	343.4	48.9	2	4	100	0.0	13.1	834	773	K		hargrave 2023-02-23 14:21:38	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Death Valley	CS9
+CS9-7b	CS9-7b_LP-DIR-T	CS9-7		mt	285.6	52.8	2	3	100	68.3	9.8	834	773	K		hargrave 2023-02-23 14:23:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
+CS9-7b	CS9-7b_LP-DIR-T	CS9-7		mt	297.1	1.5	2	3	0	68.3	9.8	834	773	K		hargrave 2023-02-23 14:23:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-7b	CS9-7b_LP-DIR-T	CS9-7		lt	73.0	47.4	2	3	100	14.3	2.0	523	77	K		hargrave 2023-02-23 14:23:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
+CS9-7b	CS9-7b_LP-DIR-T	CS9-7		lt	9.1	44.1	2	3	0	14.3	2.0	523	77	K		hargrave 2023-02-23 14:23:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-7b		CS9-7																	This study	LP-NOMAG				Death Valley	CS9
+CS9-7b	CS9-7b_LP-DIR-T	CS9-7		lt	164.7	-12.5	2	3	-1	14.3	2.0	523	77	K		hargrave 2023-02-23 14:23:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-7b	CS9-7b_LP-DIR-T	CS9-7		mt	89.8	3.3	2	3	-1	68.3	9.8	834	773	K		hargrave 2023-02-23 14:23:06	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-8b		CS9-8																	This study	LP-NOMAG				Death Valley	CS9
+CS9-8b	CS9-8b_LP-DIR-T	CS9-8		lt	16.7	35.4	1	3	0	21.3	2.4	523	77	K		hargrave 2023-02-23 14:26:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Death Valley	CS9
+CS9-8b	CS9-8b_LP-DIR-T	CS9-8		lt	183.0	-10.5	1	3	-1	21.3	2.4	523	77	K		hargrave 2023-02-23 14:26:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Death Valley	CS9
+CS9-8b	CS9-8b_LP-DIR-T	CS9-8		lt	63.3	39.6	1	3	100	21.3	2.4	523	77	K		hargrave 2023-02-23 14:26:14	pmagpy-4.2.24-1: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Death Valley	CS9
