@@ -1,0 +1,7 @@
+name	row_number	problem_type	problem_col	error_message
+CS13	8	value	vgp_dm	181.9 (vgp_dm) must be <= 180.0 (180)
+CS13	10	value	vgp_dm	274.3 (vgp_dm) must be <= 180.0 (180)
+CS13	10	value	vgp_dp	208.9 (vgp_dp) must be <= 180.0 (180)
+CB4	94	value	vgp_dm	252.9 (vgp_dm) must be <= 180.0 (180)
+CB4	98	value	vgp_dm	299.3 (vgp_dm) must be <= 180.0 (180)
+CB4	98	value	vgp_dp	248.8 (vgp_dp) must be <= 180.0 (180)

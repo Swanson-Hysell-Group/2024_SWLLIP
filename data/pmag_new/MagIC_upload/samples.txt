@@ -1,0 +1,316 @@
+tab	samples												
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+CS3-1	CS3	0.3	Intrusive:Igneous	Diabase	Diabase		-22.8	0	23.2	126.5	-22	This study	SO-CMD-NORTH
+CS3-2	CS3	0.05	Intrusive:Igneous	Diabase	Diabase		268.2	0	23.2	126.5	-27	This study	SO-CMD-NORTH
+CS3-4	CS3	0.2	Intrusive:Igneous	Diabase	Diabase		-72.8	0	23.2	126.5	-27	This study	SO-CMD-NORTH
+CS3-5	CS3	0.1	Intrusive:Igneous	Diabase	Diabase		-38.8	0	23.2	126.5	-20	This study	SO-CMD-NORTH
+CS3-6	CS3	0.05	Intrusive:Igneous	Diabase	Diabase		-62.8	0	23.2	126.5	-28	This study	SO-CMD-NORTH
+CS3-7	CS3	0.1	Intrusive:Igneous	Diabase	Diabase		-39.8	0	23.2	126.5	-18	This study	SO-CMD-NORTH
+CS3-8	CS3	0.1	Intrusive:Igneous	Diabase	Diabase		-7.8	0	23.2	126.5	-9	This study	SO-CMD-NORTH
+CS4-1	CS4	2.9	Intrusive:Igneous	Diabase	Diabase		20.2	0	33.1	164	-36	This study	SO-CMD-NORTH
+CS4-2	CS4	2.9	Intrusive:Igneous	Diabase	Diabase		104.2	0	33.1	164	-56	This study	SO-CMD-NORTH
+CS4-3	CS4	2.9	Intrusive:Igneous	Diabase	Diabase		-1.8	0	33.1	164	-35	This study	SO-CMD-NORTH
+CS4-4	CS4	2.6	Intrusive:Igneous	Diabase	Diabase		14.2	0	33.1	164	-19	This study	SO-CMD-NORTH
+CS4-5	CS4	0.4	Intrusive:Igneous	Diabase	Diabase		-18.8	0	33.1	164	-31	This study	SO-CMD-NORTH
+CS4-6	CS4	2.6	Intrusive:Igneous	Diabase	Diabase		-8.8	0	33.1	164	-29	This study	SO-CMD-NORTH
+CS4-7	CS4	0.5	Intrusive:Igneous	Diabase	Diabase		266.2	0	33.1	164	-63	This study	SO-CMD-NORTH
+CS4-8	CS4	0.6	Intrusive:Igneous	Diabase	Diabase		8.2	0	33.1	164	-61	This study	SO-CMD-NORTH
+CS4-9	CS4	0.7	Intrusive:Igneous	Diabase	Diabase		154.2	0	33.1	164	-43	This study	SO-CMD-NORTH
+CS5-1	CS5	0.3	Intrusive:Igneous	Diabase	Diabase		190.2	0	54.9	441.2	-84	This study	SO-CMD-NORTH
+CS5-2	CS5	0.7	Intrusive:Igneous	Diabase	Diabase		-53.8	0	54.9	441.2	-14	This study	SO-CMD-NORTH
+CS5-3	CS5	1	Intrusive:Igneous	Diabase	Diabase		248.2	0	54.9	441.2	-33	This study	SO-CMD-NORTH
+CS5-4	CS5	1	Intrusive:Igneous	Diabase	Diabase		216.2	0	54.9	441.2	-3	This study	SO-CMD-NORTH
+CS5-5	CS5	0.4	Intrusive:Igneous	Diabase	Diabase		272.2	0	54.9	441.2	-22	This study	SO-CMD-NORTH
+CS5-6	CS5	1.8	Intrusive:Igneous	Diabase	Diabase		-74.8	0	54.9	441.2	-36	This study	SO-CMD-NORTH
+CS5-8	CS5	2.2	Intrusive:Igneous	Diabase	Diabase		119.2	0	54.9	441.2	-53	This study	SO-CMD-NORTH
+CS7-2	CS7	1.8	Intrusive:Igneous	Diabase	Diabase		43.4	0	61.5	106.3	-29	This study	SO-CMD-NORTH
+CS7-3	CS7	1.9	Intrusive:Igneous	Diabase	Diabase		38.5	0	61.5	106.3	-25	This study	SO-CMD-NORTH
+CS7-4	CS7	11.4	Intrusive:Igneous	Diabase	Diabase		-36.7	0	61.5	106.3	-35	This study	SO-CMD-NORTH
+CS7-5	CS7	11.4	Intrusive:Igneous	Diabase	Diabase		-46.9	0	61.5	106.3	-61	This study	SO-CMD-NORTH
+CS7-6	CS7	13.4	Intrusive:Igneous	Diabase	Diabase		-33.5	0	61.5	106.3	-28	This study	SO-CMD-NORTH
+CS7-7	CS7	13.5	Intrusive:Igneous	Diabase	Diabase		-28.5	0	61.5	106.3	-25	This study	SO-CMD-NORTH
+CS7-8	CS7	15.5	Intrusive:Igneous	Diabase	Diabase		-60.4	0	61.5	106.3	-39	This study	SO-CMD-NORTH
+CS7-9	CS7	15.5	Intrusive:Igneous	Diabase	Diabase		-65.7	0	61.5	106.3	-59	This study	SO-CMD-NORTH
+CS9-1	CS9	3.3	Intrusive:Igneous	Diabase	Diabase		201.1	0	54.6	133.7	-31	This study	SO-CMD-NORTH
+CS9-2	CS9	3.4	Intrusive:Igneous	Diabase	Diabase		196.1	0	54.6	133.7	-34	This study	SO-CMD-NORTH
+CS9-3	CS9	4.8	Intrusive:Igneous	Diabase	Diabase		205.1	0	54.6	133.7	-38	This study	SO-CMD-NORTH
+CS9-4	CS9	5.8	Intrusive:Igneous	Diabase	Diabase		211.1	0	54.6	133.7	-51	This study	SO-CMD-NORTH
+CS9-5	CS9	5.9	Intrusive:Igneous	Diabase	Diabase		208.1	0	54.6	133.7	-48	This study	SO-CMD-NORTH
+CS9-6	CS9	6	Intrusive:Igneous	Diabase	Diabase		205.1	0	54.6	133.7	-55	This study	SO-CMD-NORTH
+CS9-7	CS9	5.7	Intrusive:Igneous	Diabase	Diabase		210.1	0	54.6	133.7	-59	This study	SO-CMD-NORTH
+CS9-8	CS9	6	Intrusive:Igneous	Diabase	Diabase		193.1	0	54.6	133.7	-46	This study	SO-CMD-NORTH
+CS10-1	CS10	0	Intrusive:Igneous	Diabase	Diabase		-74.8	0	86.3	102	-77	This study	SO-CMD-NORTH
+CS10-2	CS10	0	Intrusive:Igneous	Diabase	Diabase		-73.1	0	86.3	102	-79	This study	SO-CMD-NORTH
+CS10-3	CS10	0	Intrusive:Igneous	Diabase	Diabase		-71.2	0	86.3	102	-78	This study	SO-CMD-NORTH
+CS10-4	CS10	0.15	Intrusive:Igneous	Diabase	Diabase		-80.9	0	86.3	102	-89	This study	SO-CMD-NORTH
+CS10-5	CS10	0.15	Intrusive:Igneous	Diabase	Diabase		-84.2	0	86.3	102	-92	This study	SO-CMD-NORTH
+CS10-6	CS10	0	Intrusive:Igneous	Diabase	Diabase		-77.2	0	86.3	102	-83	This study	SO-CMD-NORTH
+CS10-7	CS10	0.1	Intrusive:Igneous	Diabase	Diabase		-82.3	0	86.3	102	-78	This study	SO-CMD-NORTH
+CS10-8	CS10	0.1	Intrusive:Igneous	Diabase	Diabase		-88.1	0	86.3	102	-78	This study	SO-CMD-NORTH
+CS11-1	CS11	0.95	Intrusive:Igneous	Diabase	Diabase		78.2	0	53	435.2	-39	This study	SO-CMD-NORTH
+CS11-2	CS11	0.89	Intrusive:Igneous	Diabase	Diabase		73	0	53	435.2	-25	This study	SO-CMD-NORTH
+CS11-3	CS11	0.84	Intrusive:Igneous	Diabase	Diabase		63.8	0	53	435.2	-22	This study	SO-CMD-NORTH
+CS11-4	CS11	0.62	Intrusive:Igneous	Diabase	Diabase		68.1	0	53	435.2	-25	This study	SO-CMD-NORTH
+CS11-5	CS11	0.43	Intrusive:Igneous	Diabase	Diabase		105.8	0	53	435.2	-53	This study	SO-CMD-NORTH
+CS11-7	CS11	0.66	Intrusive:Igneous	Diabase	Diabase		71.7	0	53	435.2	-30	This study	SO-CMD-NORTH
+CS11-8	CS11	0.65	Intrusive:Igneous	Diabase	Diabase		56.9	0	53	435.2	-24	This study	SO-CMD-NORTH
+CS11-9	CS11	0.37	Intrusive:Igneous	Diabase	Diabase		74.9	0	53	435.2	-26	This study	SO-CMD-NORTH
+CS12-1	CS12	31	Intrusive:Igneous	Diabase	Diabase		164.7	0	54.8	94.9	-18	This study	SO-CMD-NORTH
+CS12-2	CS12	31	Intrusive:Igneous	Diabase	Diabase		145.3	0	54.8	94.9	-23	This study	SO-CMD-NORTH
+CS12-3	CS12	40.5	Intrusive:Igneous	Diabase	Diabase		103.5	0	54.8	94.9	-23	This study	SO-CMD-NORTH
+CS12-4	CS12	41.5	Intrusive:Igneous	Diabase	Diabase		121.9	0	54.8	94.9	-23	This study	SO-CMD-NORTH
+CS12-5	CS12	0.05	Intrusive:Igneous	Diabase	Diabase		6.4	0	54.8	94.9	-29	This study	SO-CMD-NORTH
+CS12-6	CS12	1.3	Intrusive:Igneous	Diabase	Diabase		56	0	54.8	94.9	-41	This study	SO-CMD-NORTH
+CS12-7	CS12	3.6	Intrusive:Igneous	Diabase	Diabase		118.9	0	54.8	94.9	-35	This study	SO-CMD-NORTH
+CS12-8	CS12	5.1	Intrusive:Igneous	Diabase	Diabase		34.2	0	54.8	94.9	-30	This study	SO-CMD-NORTH
+CS13-1	CS13	0.35	Intrusive:Igneous	Diabase	Diabase		-7.4	0	82.9	416	-51	This study	SO-CMD-NORTH
+CS13-2	CS13	0.4	Intrusive:Igneous	Diabase	Diabase		17.9	0	82.9	416	-18	This study	SO-CMD-NORTH
+CS13-3	CS13	0.35	Intrusive:Igneous	Diabase	Diabase		-73.3	0	82.9	416	-40	This study	SO-CMD-NORTH
+CS13-4	CS13	0.7	Intrusive:Igneous	Diabase	Diabase		1	0	82.9	416	-17	This study	SO-CMD-NORTH
+CS13-5	CS13	0.45	Intrusive:Igneous	Diabase	Diabase		40.9	0	82.9	416	-21	This study	SO-CMD-NORTH
+CS13-6	CS13	0.85	Intrusive:Igneous	Diabase	Diabase		6.6	0	82.9	416	-81	This study	SO-CMD-NORTH
+CS13-7	CS13	2.5	Intrusive:Igneous	Diabase	Diabase		-6.1	0	82.9	416	-18	This study	SO-CMD-NORTH
+CS14-1	CS14	0.4	Intrusive:Igneous	Diabase	Diabase		260.1	0	55.8	98.7	-76	This study	SO-CMD-NORTH
+CS14-2	CS14	0.6	Intrusive:Igneous	Diabase	Diabase		274.1	0	55.8	98.7	-78	This study	SO-CMD-NORTH
+CS14-3	CS14	0.4	Intrusive:Igneous	Diabase	Diabase		63.1	0	55.8	98.7	-27	This study	SO-CMD-NORTH
+CS14-4	CS14	0	Intrusive:Igneous	Diabase	Diabase		276.1	0	55.8	98.7	-65	This study	SO-CMD-NORTH
+CS14-7	CS14	2	Intrusive:Igneous	Diabase	Diabase		20.1	0	55.8	98.7	-13	This study	SO-CMD-NORTH
+CS14-8	CS14	40	Intrusive:Igneous	Diabase	Diabase		70.1	0	55.8	98.7	-29	This study	SO-CMD-NORTH
+CS15-1	CS15	1.2	Intrusive:Igneous	Diabase	Diabase		79.1	0	69	98.9	-82	This study	SO-CMD-NORTH
+CS15-2	CS15	0.5	Intrusive:Igneous	Diabase	Diabase		-10.9	0	69	98.9	-50	This study	SO-CMD-NORTH
+CS15-3	CS15	0.6	Intrusive:Igneous	Diabase	Diabase		95.1	0	69	98.9	-5	This study	SO-CMD-NORTH
+CS15-4	CS15	1.3	Intrusive:Igneous	Diabase	Diabase		-11.9	0	69	98.9	-23	This study	SO-CMD-NORTH
+CS15-6	CS15	1.7	Intrusive:Igneous	Diabase	Diabase		28.1	0	69	98.9	-24	This study	SO-CMD-NORTH
+CS15-7	CS15	0.7	Intrusive:Igneous	Diabase	Diabase		-22.9	0	69	98.9	-37	This study	SO-CMD-NORTH
+CS15-8	CS15	0.4	Intrusive:Igneous	Diabase	Diabase		-38.9	0	69	98.9	-17	This study	SO-CMD-NORTH
+CS7-1	CS7	0.9	Intrusive:Igneous	Diabase	Diabase		-28.9	0	61.5	106.3	-28	This study	SO-CMD-NORTH
+CS8-1	CS8	0	Intrusive:Igneous	Diabase	Diabase		-46.9	0	54.6	133.7	-45	This study	SO-CMD-NORTH
+CS8-2	CS8	0	Intrusive:Igneous	Diabase	Diabase		-45.9	0	54.6	133.7	-45	This study	SO-CMD-NORTH
+CS8-3	CS8	0	Intrusive:Igneous	Diabase	Diabase		-52.9	0	54.6	133.7	-40	This study	SO-CMD-NORTH
+CS8-4	CS8	0.005	Intrusive:Igneous	Diabase	Diabase		-38.9	0	54.6	133.7	-22	This study	SO-CMD-NORTH
+CS8-5	CS8	0.005	Intrusive:Igneous	Diabase	Diabase		-42.9	0	54.6	133.7	-26	This study	SO-CMD-NORTH
+CS8-6	CS8	0.25	Intrusive:Igneous	Diabase	Diabase		-52.9	0	54.6	133.7	-22	This study	SO-CMD-NORTH
+CS8-7	CS8	0.7	Intrusive:Igneous	Diabase	Diabase		257.1	0	54.6	133.7	-30	This study	SO-CMD-NORTH
+CS8-8	CS8	1	Intrusive:Igneous	Diabase	Diabase		172.1	0	54.6	133.7	-52	This study	SO-CMD-NORTH
+CS8-9	CS8	0.15	Intrusive:Igneous	Diabase	Diabase		-47.9	0	54.6	133.7	-44	This study	SO-CMD-NORTH
+CS11-6	CS11	0.34	Intrusive:Igneous	Diabase	Diabase		111.9	0	53	435.2	-62	This study	SO-CMD-NORTH
+CS13-8	CS13	5.5	Intrusive:Igneous	Diabase	Diabase		1.2	0	82.9	416	-39	This study	SO-CMD-NORTH
+CS1-1	CS1	1.9	Intrusive:Igneous	Diabase	Diabase		93.3	0	23.8	131	-79	This study	SO-CMD-NORTH
+CS1-2	CS1	2.3	Intrusive:Igneous	Diabase	Diabase		-73.7	0	23.8	131	-19	This study	SO-CMD-NORTH
+CS1-3	CS1	2.5	Intrusive:Igneous	Diabase	Diabase		27.3	0	23.8	131	-30	This study	SO-CMD-NORTH
+CS1-4	CS1	3.7	Intrusive:Igneous	Diabase	Diabase		9.3	0	23.8	131	-23	This study	SO-CMD-NORTH
+CS1-5	CS1	1.8	Intrusive:Igneous	Diabase	Diabase		204.3	0	23.8	131	-73	This study	SO-CMD-NORTH
+CS1-6	CS1	1.1	Intrusive:Igneous	Diabase	Diabase		-5.7	0	23.8	131	-12	This study	SO-CMD-NORTH
+CS1-7	CS1	1.6	Intrusive:Igneous	Diabase	Diabase		107.3	0	23.8	131	-75	This study	SO-CMD-NORTH
+CS1-8	CS1	1.2	Intrusive:Igneous	Diabase	Diabase		92.3	0	23.8	131	-78	This study	SO-CMD-NORTH
+CS2-1	CS2	0.4	Intrusive:Igneous	Diabase	Diabase		189.2	0	22.5	102.1	-91	This study	SO-CMD-NORTH
+CS2-2	CS2	0.8	Intrusive:Igneous	Diabase	Diabase		134.2	0	22.5	102.1	-86	This study	SO-CMD-NORTH
+CS2-3	CS2	0.1	Intrusive:Igneous	Diabase	Diabase		163.2	0	22.5	102.1	-84	This study	SO-CMD-NORTH
+CS2-4	CS2	0.1	Intrusive:Igneous	Diabase	Diabase		25.2	0	22.5	102.1	-83	This study	SO-CMD-NORTH
+CS2-5	CS2	0.25	Intrusive:Igneous	Diabase	Diabase		256.2	0	22.5	102.1	-32	This study	SO-CMD-NORTH
+CS2-6	CS2	1.65	Intrusive:Igneous	Diabase	Diabase		135.2	0	22.5	102.1	-79	This study	SO-CMD-NORTH
+CS2-7	CS2	0.5	Intrusive:Igneous	Diabase	Diabase		238.2	0	22.5	102.1	-32	This study	SO-CMD-NORTH
+CS2-8	CS2	2	Intrusive:Igneous	Diabase	Diabase		-65.8	0	22.5	102.1	-29	This study	SO-CMD-NORTH
+CS5-1	CS5	0.3	Intrusive:Igneous	Diabase	Diabase		190.2	0	54.9	441.1	-84	This study	SO-CMD-NORTH
+CS5-2	CS5	0.7	Intrusive:Igneous	Diabase	Diabase		-53.8	0	54.9	441.1	-14	This study	SO-CMD-NORTH
+CS5-3	CS5	1	Intrusive:Igneous	Diabase	Diabase		248.2	0	54.9	441.1	-33	This study	SO-CMD-NORTH
+CS5-4	CS5	1	Intrusive:Igneous	Diabase	Diabase		216.2	0	54.9	441.1	-3	This study	SO-CMD-NORTH
+CS5-5	CS5	0.4	Intrusive:Igneous	Diabase	Diabase		272.2	0	54.9	441.1	-22	This study	SO-CMD-NORTH
+CS5-6	CS5	1.8	Intrusive:Igneous	Diabase	Diabase		-74.8	0	54.9	441.1	-36	This study	SO-CMD-NORTH
+CS5-7	CS5	1.8	Intrusive:Igneous	Diabase	Diabase		256.2	0	54.9	441.1	-40	This study	SO-CMD-NORTH
+CS5-8	CS5	2.2	Intrusive:Igneous	Diabase	Diabase		119.2	0	54.9	441.1	-53	This study	SO-CMD-NORTH
+CS6-1	CS6	4.3	Intrusive:Igneous	Diabase	Diabase		106.2	0	54.4	444.4	-23	This study	SO-CMD-NORTH
+CS6-2	CS6	2.1	Intrusive:Igneous	Diabase	Diabase		56.2	0	54.4	444.4	-34	This study	SO-CMD-NORTH
+CS6-3	CS6	4.4	Intrusive:Igneous	Diabase	Diabase		137.2	0	54.4	444.4	-18	This study	SO-CMD-NORTH
+CS6-4	CS6	4.9	Intrusive:Igneous	Diabase	Diabase		135.2	0	54.4	444.4	-38	This study	SO-CMD-NORTH
+CS6-5	CS6	2.1	Intrusive:Igneous	Diabase	Diabase		153.2	0	54.4	444.4	-58	This study	SO-CMD-NORTH
+CS6-6	CS6	1	Intrusive:Igneous	Diabase	Diabase		84.2	0	54.4	444.4	-42	This study	SO-CMD-NORTH
+CS6-7	CS6	0.8	Intrusive:Igneous	Diabase	Diabase		-74.8	0	54.4	444.4	-51	This study	SO-CMD-NORTH
+CS6-8	CS6	5	Intrusive:Igneous	Diabase	Diabase		170.2	0	54.4	444.4	-56	This study	SO-CMD-NORTH
+CS14-5	CS14	0	Intrusive:Igneous	Diabase	Diabase		262.1	0	55.8	98.7	-100	This study	SO-CMD-NORTH
+CS14-6	CS14	1.3	Intrusive:Igneous	Diabase	Diabase		52.1	0	55.8	98.7	-48	This study	SO-CMD-NORTH
+CS15-5	CS15	1.3	Intrusive:Igneous	Diabase	Diabase		-32.9	0	69	98.9	-23	This study	SO-CMD-NORTH
+UI1-1	UI1	0	Intrusive:Igneous	Diabase	Diabase		209	0	14	375.5	-18	This study	SO-CMD-NORTH
+UI1-2	UI1	0	Intrusive:Igneous	Diabase	Diabase		30	0	14	375.5	-79	This study	SO-CMD-NORTH
+UI1-3	UI1	0	Intrusive:Igneous	Diabase	Diabase		255	0	14	375.5	-11	This study	SO-CMD-NORTH
+UI1-4	UI1	0	Intrusive:Igneous	Diabase	Diabase		213	0	14	375.5	-25	This study	SO-CMD-NORTH
+UI1-5	UI1	0	Intrusive:Igneous	Diabase	Diabase		244	0	14	375.5	-16	This study	SO-CMD-NORTH
+UI1-6	UI1	0	Intrusive:Igneous	Diabase	Diabase		1	0	14	375.5	-65	This study	SO-CMD-NORTH
+UI1-7	UI1	0	Intrusive:Igneous	Diabase	Diabase		195	0	14	375.5	-109	This study	SO-CMD-NORTH
+UI1-8	UI1	0	Intrusive:Igneous	Diabase	Diabase		190	0	14	375.5	-106	This study	SO-CMD-NORTH
+UI2-1	UI2	0	Intrusive:Igneous	Diabase	Diabase		-20	0	23.9	325.4	-56	This study	SO-CMD-NORTH
+UI2-2	UI2	0	Intrusive:Igneous	Diabase	Diabase		161	0	23.9	325.4	-51	This study	SO-CMD-NORTH
+UI2-3	UI2	0	Intrusive:Igneous	Diabase	Diabase		25	0	23.9	325.4	-15	This study	SO-CMD-NORTH
+UI2-4	UI2	0	Intrusive:Igneous	Diabase	Diabase		124	0	23.9	325.4	-38	This study	SO-CMD-NORTH
+UI2-5	UI2	0	Intrusive:Igneous	Diabase	Diabase		156	0	23.9	325.4	-20	This study	SO-CMD-NORTH
+UI2-6	UI2	0	Intrusive:Igneous	Diabase	Diabase		164	0	23.9	325.4	-63	This study	SO-CMD-NORTH
+UI2-7	UI2	0	Intrusive:Igneous	Diabase	Diabase		200	0	23.9	325.4	-31	This study	SO-CMD-NORTH
+UI2-8	UI2	0	Intrusive:Igneous	Diabase	Diabase		-48	0	23.9	325.4	-31	This study	SO-CMD-NORTH
+UI3-1	UI3	0	Intrusive:Igneous	Diabase	Diabase		232	0	11.3	442.8	-20	This study	SO-CMD-NORTH
+UI3-2	UI3	0	Intrusive:Igneous	Diabase	Diabase		-30	0	11.3	442.8	-79	This study	SO-CMD-NORTH
+UI3-3	UI3	0	Intrusive:Igneous	Diabase	Diabase		-55	0	11.3	442.8	-11	This study	SO-CMD-NORTH
+UI3-4	UI3	0	Intrusive:Igneous	Diabase	Diabase		-85	0	11.3	442.8	-8	This study	SO-CMD-NORTH
+UI3-5	UI3	0	Intrusive:Igneous	Diabase	Diabase		252	0	11.3	442.8	-9	This study	SO-CMD-NORTH
+UI3-6	UI3	0	Intrusive:Igneous	Diabase	Diabase		20	0	11.3	442.8	-7	This study	SO-CMD-NORTH
+UI3-7	UI3	0	Intrusive:Igneous	Diabase	Diabase		-29	0	11.3	442.8	-77	This study	SO-CMD-NORTH
+UI3-8	UI3	0	Intrusive:Igneous	Diabase	Diabase		-82	0	11.3	442.8	-12	This study	SO-CMD-NORTH
+UI4-1	UI4	0	Intrusive:Igneous	Diabase	Diabase		252	0	28.7	390.6	-30	This study	SO-CMD-NORTH
+UI4-2	UI4	0	Intrusive:Igneous	Diabase	Diabase		207	0	28.7	390.6	-49	This study	SO-CMD-NORTH
+UI4-3	UI4	0	Intrusive:Igneous	Diabase	Diabase		193	0	28.7	390.6	-43	This study	SO-CMD-NORTH
+UI4-4	UI4	0	Intrusive:Igneous	Diabase	Diabase		256	0	28.7	390.6	-42	This study	SO-CMD-NORTH
+UI4-5	UI4	0	Intrusive:Igneous	Diabase	Diabase		244	0	28.7	390.6	-41	This study	SO-CMD-NORTH
+UI4-7	UI4	0	Intrusive:Igneous	Diabase	Diabase		236	0	28.7	390.6	-15	This study	SO-CMD-NORTH
+UI4-8	UI4	0	Intrusive:Igneous	Diabase	Diabase		221	0	28.7	390.6	-42	This study	SO-CMD-NORTH
+UI5-1	UI5	0	Intrusive:Igneous	Diabase	Diabase		155	0	12	408.7	-96	This study	SO-CMD-NORTH
+UI5-2	UI5	0	Intrusive:Igneous	Diabase	Diabase		-36	0	12	408.7	-82	This study	SO-CMD-NORTH
+UI5-3	UI5	0	Intrusive:Igneous	Diabase	Diabase		60	0	12	408.7	-79	This study	SO-CMD-NORTH
+UI5-4	UI5	0	Intrusive:Igneous	Diabase	Diabase		180	0	12	408.7	-31	This study	SO-CMD-NORTH
+UI5-5	UI5	0	Intrusive:Igneous	Diabase	Diabase		90	0	12	408.7	-73	This study	SO-CMD-NORTH
+UI5-6	UI5	0	Intrusive:Igneous	Diabase	Diabase		25	0	12	408.7	-73	This study	SO-CMD-NORTH
+UI5-7	UI5	0	Intrusive:Igneous	Diabase	Diabase		201	0	12	408.7	-18	This study	SO-CMD-NORTH
+UI5-8	UI5	0	Intrusive:Igneous	Diabase	Diabase		-15	0	12	408.7	-88	This study	SO-CMD-NORTH
+CBS1-1	CBS1	0	Sedimentary	Sediment Layer	Sandstone		127	0	10.4	364.8	-8	This study	SO-CMD-NORTH
+CBS1-2	CBS1	0	Sedimentary	Sediment Layer	Sandstone		238	0	10.4	364.8	-86	This study	SO-CMD-NORTH
+CBS1-3	CBS1	0	Sedimentary	Sediment Layer	Sandstone		208	0	10.4	364.8	-6	This study	SO-CMD-NORTH
+CBS1-4	CBS1	0	Sedimentary	Sediment Layer	Sandstone		-39	0	10.4	364.8	-6	This study	SO-CMD-NORTH
+CBS1-5	CBS1	0	Sedimentary	Sediment Layer	Sandstone		245	0	10.4	364.8	-1	This study	SO-CMD-NORTH
+CBS1-6	CBS1	0	Sedimentary	Sediment Layer	Sandstone		146	0	10.4	364.8	-2	This study	SO-CMD-NORTH
+CBS1-7	CBS1	0	Sedimentary	Sediment Layer	Sandstone		141	0	10.4	364.8	-8	This study	SO-CMD-NORTH
+CB1-1	CB1	0	Extrusive:Igneous	Lava Flow	Basalt		258	0	19.7	381.7	-32	This study	SO-CMD-NORTH
+CB1-2	CB1	0	Extrusive:Igneous	Lava Flow	Basalt		227	0	19.7	381.7	-70	This study	SO-CMD-NORTH
+CB1-3	CB1	0	Extrusive:Igneous	Lava Flow	Basalt		198	0	19.7	381.7	-39	This study	SO-CMD-NORTH
+CB1-4	CB1	0	Extrusive:Igneous	Lava Flow	Basalt		245	0	19.7	381.7	-102	This study	SO-CMD-NORTH
+CB1-5	CB1	0	Extrusive:Igneous	Lava Flow	Basalt		159	0	19.7	381.7	-16	This study	SO-CMD-NORTH
+CB1-6	CB1	0	Extrusive:Igneous	Lava Flow	Basalt		239	0	19.7	381.7	-94	This study	SO-CMD-NORTH
+CB1-7	CB1	0	Extrusive:Igneous	Lava Flow	Basalt		252	0	19.7	381.7	-80	This study	SO-CMD-NORTH
+CB1-8	CB1	0	Extrusive:Igneous	Lava Flow	Basalt		21	0	19.7	381.7	-13	This study	SO-CMD-NORTH
+CB2-1	CB2	0	Extrusive:Igneous	Lava Flow	Basalt		-1	0	19.7	381.7	-51	This study	SO-CMD-NORTH
+CB2-2	CB2	0	Extrusive:Igneous	Lava Flow	Basalt		-9	0	19.7	381.7	-48	This study	SO-CMD-NORTH
+CB2-3	CB2	0	Extrusive:Igneous	Lava Flow	Basalt		10	0	19.7	381.7	-53	This study	SO-CMD-NORTH
+CB2-4	CB2	0	Extrusive:Igneous	Lava Flow	Basalt		57	0	19.7	381.7	-38	This study	SO-CMD-NORTH
+CB2-5	CB2	0	Extrusive:Igneous	Lava Flow	Basalt		246	0	19.7	381.7	-79	This study	SO-CMD-NORTH
+CB2-6	CB2	0	Extrusive:Igneous	Lava Flow	Basalt		6	0	19.7	381.7	-45	This study	SO-CMD-NORTH
+CB2-7	CB2	0	Extrusive:Igneous	Lava Flow	Basalt		172	0	19.7	381.7	-35	This study	SO-CMD-NORTH
+CB2-8	CB2	0	Extrusive:Igneous	Lava Flow	Basalt		53	0	19.7	381.7	-33	This study	SO-CMD-NORTH
+CB3-1	CB3	0	Extrusive:Igneous	Lava Flow	Basalt		-63	0	19.7	381.7	-60	This study	SO-CMD-NORTH
+CB3-2	CB3	0	Extrusive:Igneous	Lava Flow	Basalt		-62	0	19.7	381.7	-72	This study	SO-CMD-NORTH
+CB3-3	CB3	0	Extrusive:Igneous	Lava Flow	Basalt		177	0	19.7	381.7	-16	This study	SO-CMD-NORTH
+CB3-4	CB3	0	Extrusive:Igneous	Lava Flow	Basalt		-30	0	19.7	381.7	-55	This study	SO-CMD-NORTH
+CB3-6	CB3	0	Extrusive:Igneous	Lava Flow	Basalt		-21	0	19.7	381.7	-77	This study	SO-CMD-NORTH
+CB3-7	CB3	0	Extrusive:Igneous	Lava Flow	Basalt		-82	0	19.7	381.7	-48	This study	SO-CMD-NORTH
+CB3-8	CB3	0	Extrusive:Igneous	Lava Flow	Basalt		196	0	19.7	381.7	-25	This study	SO-CMD-NORTH
+CB4-2	CB4	0	Extrusive:Igneous	Lava Flow	Basalt		128	0	19.7	381.7	-52	This study	SO-CMD-NORTH
+CB4-3	CB4	0	Extrusive:Igneous	Lava Flow	Basalt		231	0	19.7	381.7	-44	This study	SO-CMD-NORTH
+CB4-4	CB4	0	Extrusive:Igneous	Lava Flow	Basalt		248	0	19.7	381.7	-89	This study	SO-CMD-NORTH
+CB4-5	CB4	0	Extrusive:Igneous	Lava Flow	Basalt		198	0	19.7	381.7	-15	This study	SO-CMD-NORTH
+CB4-6	CB4	0	Extrusive:Igneous	Lava Flow	Basalt		134	0	19.7	381.7	-80	This study	SO-CMD-NORTH
+CB4-7	CB4	0	Extrusive:Igneous	Lava Flow	Basalt		108	0	19.7	381.7	-62	This study	SO-CMD-NORTH
+CB4-8	CB4	0	Extrusive:Igneous	Lava Flow	Basalt		210	0	19.7	381.7	-79	This study	SO-CMD-NORTH
+CB5-1	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		87	0	19.7	381.7	-49	This study	SO-CMD-NORTH
+CB5-2	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		74	0	19.7	381.7	-62	This study	SO-CMD-NORTH
+CB5-3	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		197	0	19.7	381.7	-71	This study	SO-CMD-NORTH
+CB5-4	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		0	0	19.7	381.7	-51	This study	SO-CMD-NORTH
+CB5-5	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		141	0	19.7	381.7	-49	This study	SO-CMD-NORTH
+CB5-6	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		66	0	19.7	381.7	-6	This study	SO-CMD-NORTH
+CB5-7	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		52	0	19.7	381.7	-35	This study	SO-CMD-NORTH
+CB5-8	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		38	0	19.7	381.7	-29	This study	SO-CMD-NORTH
+CB5-9	CB5	0	Extrusive:Igneous	Lava Flow	Basalt		236	0	19.7	381.7	-15	This study	SO-CMD-NORTH
+CB6-1	CB6	0	Extrusive:Igneous	Lava Flow	Basalt		-32	0	12.8	409.6	-4	This study	SO-CMD-NORTH
+CB6-2	CB6	0	Extrusive:Igneous	Lava Flow	Basalt		194	0	12.8	409.6	-10	This study	SO-CMD-NORTH
+CB6-3	CB6	0	Extrusive:Igneous	Lava Flow	Basalt		6	0	12.8	409.6	-65	This study	SO-CMD-NORTH
+CB6-4	CB6	0	Extrusive:Igneous	Lava Flow	Basalt		266	0	12.8	409.6	-44	This study	SO-CMD-NORTH
+CB6-5	CB6	0	Extrusive:Igneous	Lava Flow	Basalt		46	0	12.8	409.6	-83	This study	SO-CMD-NORTH
+CB6-6	CB6	0	Extrusive:Igneous	Lava Flow	Basalt		37	0	12.8	409.6	-43	This study	SO-CMD-NORTH
+CB6-7	CB6	0	Extrusive:Igneous	Lava Flow	Basalt		-89	0	12.8	409.6	-63	This study	SO-CMD-NORTH
+CB6-8	CB6	0	Extrusive:Igneous	Lava Flow	Basalt		194	0	12.8	409.6	-11	This study	SO-CMD-NORTH
+CB7-1	CB7	0	Extrusive:Igneous	Lava Flow	Basalt		204	0	12.8	409.6	-21	This study	SO-CMD-NORTH
+CB7-2	CB7	0	Extrusive:Igneous	Lava Flow	Basalt		230	0	12.8	409.6	-17	This study	SO-CMD-NORTH
+CB7-3	CB7	0	Extrusive:Igneous	Lava Flow	Basalt		145	0	12.8	409.6	-22	This study	SO-CMD-NORTH
+CB7-4	CB7	0	Extrusive:Igneous	Lava Flow	Basalt		215	0	12.8	409.6	-24	This study	SO-CMD-NORTH
+CB7-5	CB7	0	Extrusive:Igneous	Lava Flow	Basalt		215	0	12.8	409.6	-70	This study	SO-CMD-NORTH
+CB7-6	CB7	0	Extrusive:Igneous	Lava Flow	Basalt		7	0	12.8	409.6	-79	This study	SO-CMD-NORTH
+CB7-7	CB7	0	Extrusive:Igneous	Lava Flow	Basalt		267	0	12.8	409.6	-73	This study	SO-CMD-NORTH
+CB7-8	CB7	0	Extrusive:Igneous	Lava Flow	Basalt		-66	0	12.8	409.6	-92	This study	SO-CMD-NORTH
+CB8-1	CB8	0	Extrusive:Igneous	Lava Flow	Basalt		221	0	10.4	364.8	-10	This study	SO-CMD-NORTH
+CB8-2	CB8	0	Extrusive:Igneous	Lava Flow	Basalt		196	0	10.4	364.8	-18	This study	SO-CMD-NORTH
+CB8-3	CB8	0	Extrusive:Igneous	Lava Flow	Basalt		-38	0	10.4	364.8	-83	This study	SO-CMD-NORTH
+CB8-4	CB8	0	Extrusive:Igneous	Lava Flow	Basalt		172	0	10.4	364.8	-19	This study	SO-CMD-NORTH
+CB8-5	CB8	0	Extrusive:Igneous	Lava Flow	Basalt		164	0	10.4	364.8	-29	This study	SO-CMD-NORTH
+CB8-6	CB8	0	Extrusive:Igneous	Lava Flow	Basalt		185	0	10.4	364.8	-20	This study	SO-CMD-NORTH
+CB8-7	CB8	0	Extrusive:Igneous	Lava Flow	Basalt		16	0	10.4	364.8	-8	This study	SO-CMD-NORTH
+CB8-8	CB8	0	Extrusive:Igneous	Lava Flow	Basalt		239	0	10.4	364.8	-18	This study	SO-CMD-NORTH
+CB9-1	CB9	0	Extrusive:Igneous	Lava Flow	Basalt		140	0	10.4	364.8	-12	This study	SO-CMD-NORTH
+CB9-2	CB9	0	Extrusive:Igneous	Lava Flow	Basalt		-40	0	10.4	364.8	-17	This study	SO-CMD-NORTH
+CB9-3	CB9	0	Extrusive:Igneous	Lava Flow	Basalt		41	0	10.4	364.8	-48	This study	SO-CMD-NORTH
+CB9-4	CB9	0	Extrusive:Igneous	Lava Flow	Basalt		119	0	10.4	364.8	-34	This study	SO-CMD-NORTH
+CB9-5	CB9	0	Extrusive:Igneous	Lava Flow	Basalt		159	0	10.4	364.8	-3	This study	SO-CMD-NORTH
+CB9-7	CB9	0	Extrusive:Igneous	Lava Flow	Basalt		70	0	10.4	364.8	-17	This study	SO-CMD-NORTH
+CB9-8	CB9	0	Extrusive:Igneous	Lava Flow	Basalt		202	0	10.4	364.8	-11	This study	SO-CMD-NORTH
+CB9-9	CB9	0	Extrusive:Igneous	Lava Flow	Basalt		-89	0	10.4	364.8	-51	This study	SO-CMD-NORTH
+CB10-1	CB10	0	Extrusive:Igneous	Lava Flow	Basalt		199	0	10.4	364.8	-17	This study	SO-CMD-NORTH
+CB10-2	CB10	0	Extrusive:Igneous	Lava Flow	Basalt		27	0	10.4	364.8	-58	This study	SO-CMD-NORTH
+CB10-3	CB10	0	Extrusive:Igneous	Lava Flow	Basalt		79	0	10.4	364.8	-31	This study	SO-CMD-NORTH
+CB10-4	CB10	0	Extrusive:Igneous	Lava Flow	Basalt		183	0	10.4	364.8	-39	This study	SO-CMD-NORTH
+CB10-5	CB10	0	Extrusive:Igneous	Lava Flow	Basalt		155	0	10.4	364.8	-55	This study	SO-CMD-NORTH
+CB10-6	CB10	0	Extrusive:Igneous	Lava Flow	Basalt		54	0	10.4	364.8	-60	This study	SO-CMD-NORTH
+CB10-7	CB10	0	Extrusive:Igneous	Lava Flow	Basalt		-60	0	10.4	364.8	-16	This study	SO-CMD-NORTH
+CB10-8	CB10	0	Extrusive:Igneous	Lava Flow	Basalt		19	0	10.4	364.8	-65	This study	SO-CMD-NORTH
+CB11-2	CB11	0	Extrusive:Igneous	Lava Flow	Basalt		21	0	10.4	364.8	-24	This study	SO-CMD-NORTH
+CB11-4	CB11	0	Extrusive:Igneous	Lava Flow	Basalt		54	0	10.4	364.8	-51	This study	SO-CMD-NORTH
+CB11-5	CB11	0	Extrusive:Igneous	Lava Flow	Basalt		246	0	10.4	364.8	-68	This study	SO-CMD-NORTH
+CB11-6	CB11	0	Extrusive:Igneous	Lava Flow	Basalt		-81	0	10.4	364.8	-38	This study	SO-CMD-NORTH
+CB11-7	CB11	0	Extrusive:Igneous	Lava Flow	Basalt		256	0	10.4	364.8	-8	This study	SO-CMD-NORTH
+CB11-8	CB11	0	Extrusive:Igneous	Lava Flow	Basalt		200	0	10.4	364.8	-11	This study	SO-CMD-NORTH
+CB12-1	CB12	0	Extrusive:Igneous	Lava Flow	Basalt		209	0	10.4	364.8	-9	This study	SO-CMD-NORTH
+CB12-2	CB12	0	Extrusive:Igneous	Lava Flow	Basalt		189	0	10.4	364.8	-18	This study	SO-CMD-NORTH
+CB12-3	CB12	0	Extrusive:Igneous	Lava Flow	Basalt		20	0	10.4	364.8	-92	This study	SO-CMD-NORTH
+CB12-4	CB12	0	Extrusive:Igneous	Lava Flow	Basalt		174	0	10.4	364.8	-1	This study	SO-CMD-NORTH
+CB12-5	CB12	0	Extrusive:Igneous	Lava Flow	Basalt		0	0	10.4	364.8	-70	This study	SO-CMD-NORTH
+CB12-6	CB12	0	Extrusive:Igneous	Lava Flow	Basalt		207	0	10.4	364.8	-106	This study	SO-CMD-NORTH
+CB12-7	CB12	0	Extrusive:Igneous	Lava Flow	Basalt		256	0	10.4	364.8	-5	This study	SO-CMD-NORTH
+CB12-8	CB12	0	Extrusive:Igneous	Lava Flow	Basalt		126	0	10.4	364.8	-8	This study	SO-CMD-NORTH
+CB13-1	CB13	0	Extrusive:Igneous	Lava Flow	Basalt		11	0	10.4	364.8	-69	This study	SO-CMD-NORTH
+CB13-2	CB13	0	Extrusive:Igneous	Lava Flow	Basalt		-73	0	10.4	364.8	-60	This study	SO-CMD-NORTH
+CB13-3	CB13	0	Extrusive:Igneous	Lava Flow	Basalt		168	0	10.4	364.8	-25	This study	SO-CMD-NORTH
+CB13-4	CB13	0	Extrusive:Igneous	Lava Flow	Basalt		253	0	10.4	364.8	-34	This study	SO-CMD-NORTH
+CB13-5	CB13	0	Extrusive:Igneous	Lava Flow	Basalt		122	0	10.4	364.8	-28	This study	SO-CMD-NORTH
+CB13-6	CB13	0	Extrusive:Igneous	Lava Flow	Basalt		103	0	10.4	364.8	-55	This study	SO-CMD-NORTH
+CB13-7	CB13	0	Extrusive:Igneous	Lava Flow	Basalt		126	0	10.4	364.8	-60	This study	SO-CMD-NORTH
+CB14-1	CB14	0	Extrusive:Igneous	Lava Flow	Basalt		-16	0	10.4	364.8	-4	This study	SO-CMD-NORTH
+CB14-2	CB14	0	Extrusive:Igneous	Lava Flow	Basalt		190	0	10.4	364.8	-5	This study	SO-CMD-NORTH
+CB14-3	CB14	0	Extrusive:Igneous	Lava Flow	Basalt		218	0	10.4	364.8	-22	This study	SO-CMD-NORTH
+CB14-4	CB14	0	Extrusive:Igneous	Lava Flow	Basalt		19	0	10.4	364.8	-9	This study	SO-CMD-NORTH
+CB14-5	CB14	0	Extrusive:Igneous	Lava Flow	Basalt		-90	0	10.4	364.8	-11	This study	SO-CMD-NORTH
+CB14-6	CB14	0	Extrusive:Igneous	Lava Flow	Basalt		-66	0	10.4	364.8	-5	This study	SO-CMD-NORTH
+CB14-7	CB14	0	Extrusive:Igneous	Lava Flow	Basalt		224	0	10.4	364.8	-11	This study	SO-CMD-NORTH
+CB14-8	CB14	0	Extrusive:Igneous	Lava Flow	Basalt		180	0	10.4	364.8	-10	This study	SO-CMD-NORTH
+CB15-1	CB15	0	Extrusive:Igneous	Lava Flow	Basalt		-74	0	10.4	364.8	-16	This study	SO-CMD-NORTH
+CB15-2	CB15	0	Extrusive:Igneous	Lava Flow	Basalt		-38	0	10.4	364.8	-74	This study	SO-CMD-NORTH
+CB15-3	CB15	0	Extrusive:Igneous	Lava Flow	Basalt		224	0	10.4	364.8	-8	This study	SO-CMD-NORTH
+CB15-4	CB15	0	Extrusive:Igneous	Lava Flow	Basalt		88	0	10.4	364.8	-43	This study	SO-CMD-NORTH
+CB15-5	CB15	0	Extrusive:Igneous	Lava Flow	Basalt		69	0	10.4	364.8	-96	This study	SO-CMD-NORTH
+CB15-6	CB15	0	Extrusive:Igneous	Lava Flow	Basalt		80	0	10.4	364.8	-63	This study	SO-CMD-NORTH
+CB16-1	CB16	0	Extrusive:Igneous	Lava Flow	Basalt		43	0	10.4	364.8	-50	This study	SO-CMD-NORTH
+CB16-2	CB16	0	Extrusive:Igneous	Lava Flow	Basalt		-78	0	10.4	364.8	-79	This study	SO-CMD-NORTH
+CB16-3	CB16	0	Extrusive:Igneous	Lava Flow	Basalt		181	0	10.4	364.8	-12	This study	SO-CMD-NORTH
+CB16-4	CB16	0	Extrusive:Igneous	Lava Flow	Basalt		194	0	10.4	364.8	-16	This study	SO-CMD-NORTH
+CB16-5	CB16	0	Extrusive:Igneous	Lava Flow	Basalt		180	0	10.4	364.8	-18	This study	SO-CMD-NORTH
+CB16-6	CB16	0	Extrusive:Igneous	Lava Flow	Basalt		182	0	10.4	364.8	-29	This study	SO-CMD-NORTH
+CB16-7	CB16	0	Extrusive:Igneous	Lava Flow	Basalt		-8	0	10.4	364.8	-17	This study	SO-CMD-NORTH
+CB16-8	CB16	0	Extrusive:Igneous	Lava Flow	Basalt		112	0	10.4	364.8	-77	This study	SO-CMD-NORTH
+CB17-1	CB17	0	Extrusive:Igneous	Lava Flow	Basalt		94	0	10.4	364.8	-80	This study	SO-CMD-NORTH
+CB17-2	CB17	0	Extrusive:Igneous	Lava Flow	Basalt		61	0	10.4	364.8	-74	This study	SO-CMD-NORTH
+CB17-3	CB17	0	Extrusive:Igneous	Lava Flow	Basalt		-47	0	10.4	364.8	-60	This study	SO-CMD-NORTH
+CB17-4	CB17	0	Extrusive:Igneous	Lava Flow	Basalt		-27	0	10.4	364.8	-26	This study	SO-CMD-NORTH
+CB17-5	CB17	0	Extrusive:Igneous	Lava Flow	Basalt		171	0	10.4	364.8	-8	This study	SO-CMD-NORTH
+CB17-6	CB17	0	Extrusive:Igneous	Lava Flow	Basalt		113	0	10.4	364.8	-80	This study	SO-CMD-NORTH
+CB17-7	CB17	0	Extrusive:Igneous	Lava Flow	Basalt		172	0	10.4	364.8	-7	This study	SO-CMD-NORTH
+CB17-8	CB17	0	Extrusive:Igneous	Lava Flow	Basalt		-64	0	10.4	364.8	-55	This study	SO-CMD-NORTH
+CB18-1	CB18	0	Extrusive:Igneous	Lava Flow	Basalt		-90	0	10.4	364.8	-37	This study	SO-CMD-NORTH
+CB18-2	CB18	0	Extrusive:Igneous	Lava Flow	Basalt		252	0	10.4	364.8	-9	This study	SO-CMD-NORTH
+CB18-3	CB18	0	Extrusive:Igneous	Lava Flow	Basalt		-70	0	10.4	364.8	-108	This study	SO-CMD-NORTH
+CB18-4	CB18	0	Extrusive:Igneous	Lava Flow	Basalt		179	0	10.4	364.8	-8	This study	SO-CMD-NORTH
+CB18-5	CB18	0	Extrusive:Igneous	Lava Flow	Basalt		-82	0	10.4	364.8	-21	This study	SO-CMD-NORTH
+CB18-6	CB18	0	Extrusive:Igneous	Lava Flow	Basalt		261	0	10.4	364.8	-18	This study	SO-CMD-NORTH
+CB18-7	CB18	0	Extrusive:Igneous	Lava Flow	Basalt		-51	0	10.4	364.8	-17	This study	SO-CMD-NORTH
+CB18-8	CB18	0	Extrusive:Igneous	Lava Flow	Basalt		-64	0	10.4	364.8	-107	This study	SO-CMD-NORTH
