@@ -1,0 +1,24 @@
+Sample ID,Rock Type,Country,State,N-S Lat/long or UTM or TRS,E-W Lat/long or UTM or TRS,Mass (g),Analysis,LOI,Rush
+UI1-6,Dibase,United States,AZ,36.0247,-111.93,20,XRF+ICP-MS,no,no
+UI2-1,Dibase,United States,AZ,36.0456,-111.9183,20,XRF+ICP-MS,no,no
+UI3-2,Dibase,United States,AZ,36.0458,-111.9267,20,XRF+ICP-MS,no,no
+UI4-4,Dibase,United States,AZ,36.2353,-112.3294,20,XRF+ICP-MS,no,no
+UI5-8,Dibase,United States,AZ,36.3483,-112.4525,20,XRF+ICP-MS,no,no
+CB1-4,Basalt,United States,AZ,36.2839,-111.8919,20,XRF+ICP-MS,no,no
+CB2-2,Basalt,United States,AZ,36.2836,-111.8919,20,XRF+ICP-MS,no,no
+CB3-2,Basalt,United States,AZ,36.2833,-111.8928,20,XRF+ICP-MS,no,no
+CB4-6,Basalt,United States,AZ,36.2831,-111.8928,20,XRF+ICP-MS,no,no
+CB5-2,Basalt,United States,AZ,36.2825,-111.8914,20,XRF+ICP-MS,no,no
+CB6-3,Basalt,United States,AZ,36.1458,-111.8275,20,XRF+ICP-MS,no,no
+CB7-4,Basalt,United States,AZ,36.1464,-111.8269,20,XRF+ICP-MS,no,no
+CB8-3,Basalt,United States,AZ,36.1072,-111.8486,20,XRF+ICP-MS,no,no
+CB9-8,Basalt,United States,AZ,36.1073,-111.8493,20,XRF+ICP-MS,no,no
+CB10-5,Basalt,United States,AZ,36.1075,-111.8489,20,XRF+ICP-MS,no,no
+CB11-7,Basalt,United States,AZ,36.1082,-111.8489,20,XRF+ICP-MS,no,no
+CB12-6,Basalt,United States,AZ,36.11,-111.8531,20,XRF+ICP-MS,no,no
+CB13-7,Basalt,United States,AZ,36.1101,-111.8542,20,XRF+ICP-MS,no,no
+CB14-1,Basalt,United States,AZ,36.1108,-111.8553,20,XRF+ICP-MS,no,no
+CB15-1,Basalt,United States,AZ,36.1103,-111.8533,20,XRF+ICP-MS,no,no
+CB16-5,Basalt,United States,AZ,36.11,-111.8547,20,XRF+ICP-MS,no,no
+CB17-2,Basalt,United States,AZ,36.1114,-111.8553,20,XRF+ICP-MS,no,no
+CB18-5,Basalt,United States,AZ,36.1117,-111.8558,20,XRF+ICP-MS,no,no
